@@ -84,8 +84,9 @@
         <p class="small-note">每天一张小便签，也能选个分类随手翻翻。</p>
       </section>
 
-      <section class="journal" aria-labelledby="journal-title">
-        <div class="journal-heading"><div><p class="eyebrow">A SMALL NOTE TO YOURSELF</p><h2 id="journal-title">今天的小记录</h2></div><span aria-hidden="true">✎</span></div>
+      <details class="journal" id="journal" aria-labelledby="journal-title">
+        <summary class="journal-toggle"><span class="journal-icon" aria-hidden="true">✎</span><span id="journal-title">今天的小记录</span><span class="journal-hint"><span class="journal-open-label">展开</span><span class="journal-close-label">收起</span></span><span class="journal-chevron" aria-hidden="true">＋</span></summary>
+        <div class="journal-content">
         <p class="journal-intro">记下一点心情、灵感，或者今天想留住的小事。</p>
         <form id="note-form">
           <label for="note-text" id="note-label">写给自己的一小段话</label>
@@ -101,7 +102,8 @@
           <div id="note-list"></div>
           <button class="note-secondary note-more" id="note-more" type="button" hidden>再看一些</button>
         </details>
-      </section>
+        </div>
+      </details>
 
       <section class="about-strip">
         <div class="about-icon" aria-hidden="true">☁</div>
