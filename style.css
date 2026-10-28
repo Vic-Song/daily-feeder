@@ -61,21 +61,25 @@ h1 em { color: var(--green); font-style: normal; }
 .daily-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 13px; color: #84897f; font-size: 10px; letter-spacing: .13em; }
 .today-label { color: var(--green); font-weight: 700; }.sparkle { color: #d18c6a; margin-right: 7px; font-size: 13px; }
 .daily-meta time { letter-spacing: .06em; }
-.card { position: relative; min-height: 354px; overflow: hidden; padding: 27px 34px 24px; border: 1px solid #e8dfd2; border-radius: 5px; background: #fffdfa; box-shadow: 0 12px 30px rgba(62, 61, 48, .045); }
-.card.arrive { animation: arrive .32s ease both; }
-@keyframes arrive { from { opacity: .4; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+.note-stack { position: relative; perspective: 1100px; margin: 23px 4px 7px; isolation: isolate; }
+.note-stack::before, .note-stack::after { content: ""; position: absolute; inset: 5px -3px -5px 2px; background: #eee6c9; border: 1px solid #e3d8b6; border-radius: 2px; transform: rotate(1deg); z-index: -1; pointer-events: none; }
+.note-stack::after { inset: 8px 2px -8px -2px; background: #f4edd6; transform: rotate(-.8deg); z-index: -2; }
+.card { --note-paper: #fff1b8; position: relative; min-height: 354px; padding: 32px 34px 24px; border: 1px solid #85754c20; border-radius: 2px 2px 0 2px; background: linear-gradient(150deg, #ffffff30, transparent 60%), var(--note-paper); box-shadow: 0 13px 22px -15px #63532870, 2px 3px 5px #6353280c; transform-origin: 50% 8%; backface-visibility: hidden; }
+.card::after { content: ""; position: absolute; bottom: 0; right: 0; width: 24px; height: 24px; background: linear-gradient(135deg, #63532818 0 48%, #f8f5ef 51%); box-shadow: -2px -2px 3px #6353280a; pointer-events: none; }
+.note-tape { position: absolute; top: -13px; left: calc(50% - 48px); width: 96px; height: 27px; transform: rotate(-4deg); background: #c7ccab83; border-left: 2px dotted #ffffff60; border-right: 2px dotted #ffffff60; box-shadow: 0 1px 2px #534b2110; pointer-events: none; }
 .card-topline { display: flex; align-items: center; justify-content: space-between; position: relative; z-index: 1; }
-.category-pill { border-radius: 99px; background: #e9efe8; color: #536c59; padding: 7px 12px; font-size: 11px; letter-spacing: .05em; }
-.card-number { color: #bbb4a8; font-size: 10px; letter-spacing: .13em; }
+.category-pill { border-radius: 3px; background: #ffffff65; color: #53624a; padding: 7px 12px; font-size: 11px; letter-spacing: .05em; }
+.card-number { color: #8d876d; font-size: 10px; letter-spacing: .13em; }
 .card-illustration { position: absolute; right: 49px; top: 66px; width: 130px; height: 130px; display: grid; place-items: center; border-radius: 50%; background: #f5eee1; color: #75866c; font-size: 60px; transform: rotate(-7deg); }
 .card-illustration::after { content: ""; position: absolute; width: 22px; height: 22px; right: -3px; top: 3px; border-radius: 50%; background: #e6b99c; box-shadow: 0 0 0 7px #f7eee5; }
 .card-kicker { margin: 45px 0 10px; color: #b07f60; font-size: 11px; letter-spacing: .12em; }
 .card h2 { position: relative; z-index: 1; max-width: 395px; margin: 0; font: 600 clamp(23px, 4vw, 31px)/1.5 var(--serif); letter-spacing: .01em; }
 .card-body { position: relative; z-index: 1; max-width: 420px; margin: 13px 0 34px; color: #6e7770; font-size: 14px; line-height: 1.9; }
-.card-footer { border-top: 1px solid #eee8df; padding-top: 13px; display: flex; align-items: center; gap: 8px; color: #aaa397; font-size: 11px; }
+.card-footer { border-top: 1px dashed #82774f35; padding-top: 13px; padding-right: 12px; display: flex; align-items: center; gap: 8px; color: #8d846a; font-size: 11px; }
 .tiny-heart { font-size: 17px; color: #cc9476; }
 .draw-button { display: flex; align-items: center; gap: 10px; margin: 20px auto 0; padding: 12px 20px; border: 1px solid #ccd5ca; border-radius: 99px; background: transparent; color: var(--green); font-weight: 600; font-size: 13px; cursor: pointer; transition: background .2s, transform .2s, border-color .2s; }
 .draw-button:hover { background: #eaf0e8; border-color: #9eb09e; transform: translateY(-1px); }.draw-button:focus-visible { outline: 3px solid #d8aa77; outline-offset: 3px; }
+.draw-button:disabled { cursor: wait; opacity: .65; transform: none; }
 .draw-icon { font-size: 19px; line-height: 1; }.draw-button.is-spinning .draw-icon { animation: spin .5s ease; }
 @keyframes spin { to { transform: rotate(360deg); } }
 .small-note { margin: 12px 0 0; text-align: center; color: #9a9b91; font-size: 11px; }
@@ -101,7 +105,7 @@ h1 em { color: var(--green); font-style: normal; }
   .weather-block { padding-left: 13px; }.weather-main { gap: 8px; }.weather-symbol { font-size: 27px; }.weather-temp { font-size: 30px; }.weather-summary { font-size: 11px; line-height: 1.7; }.weather-details { font-size: 9px; margin-top: 3px; }
   .outfit-note { gap: 9px; padding: 13px 0; }.outfit-note p { font-size: 11px; }.weather-footnote { font-size: 8px; gap: 6px; }
   .daily-wrap { padding: 3px 0 40px; }.daily-meta { font-size: 9px; }
-  .card { min-height: 346px; padding: 21px 20px 18px; }
+  .card { min-height: 346px; padding: 27px 20px 18px; }
   .card-illustration { right: 22px; top: 57px; width: 68px; height: 68px; font-size: 33px; opacity: .78; }
   .card-illustration::after { width: 15px; height: 15px; box-shadow: 0 0 0 5px #f7eee5; }
   .card-kicker { margin-top: 62px; font-size: 10px; }.card h2 { max-width: 100%; font-size: 24px; }.card-body { max-width: 100%; font-size: 13px; margin-bottom: 29px; }

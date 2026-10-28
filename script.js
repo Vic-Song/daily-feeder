@@ -36,6 +36,8 @@ const dayEl = document.querySelector("#card-number");
 const cardEl = document.querySelector("#daily-card");
 let currentIndex = -1;
 let activeDate = "";
+let drawing = false;
+const notePapers = ["#fff1b8", "#e5edd5", "#f8e0d7", "#e1edf1", "#f5e9cd"];
 
 // A stable shuffled deck gives every card a turn before the daily cycle repeats.
 const dailyDeck = cards.map((_, index) => index);
@@ -68,9 +70,7 @@ function renderCard(index) {
   document.querySelector("#card-body").textContent = card.body;
   document.querySelector("#card-footnote").textContent = card.note;
   dayEl.textContent = `NO. ${String(index + 1).padStart(2, "0")}`;
-  cardEl.classList.remove("arrive");
-  void cardEl.offsetWidth;
-  cardEl.classList.add("arrive");
+  cardEl.style.setProperty("--note-paper", notePapers[index % notePapers.length]);
 }
 
 function refreshDailyCard() {
@@ -90,12 +90,47 @@ document.addEventListener("visibilitychange", () => {
   if (!document.hidden) refreshDailyCard();
 });
 
-document.querySelector("#draw-again").addEventListener("click", (event) => {
+document.querySelector("#draw-again").addEventListener("click", async (event) => {
+  if (drawing) return;
+  drawing = true;
   let nextIndex = Math.floor(Math.random() * (cards.length - 1));
   if (nextIndex >= currentIndex) nextIndex += 1;
   const button = event.currentTarget;
+  button.disabled = true;
+  cardEl.setAttribute("aria-busy", "true");
   button.classList.remove("is-spinning");
   void button.offsetWidth;
   button.classList.add("is-spinning");
-  renderCard(nextIndex);
+  let exit;
+  let enter;
+  let changed = false;
+  try {
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (!reduceMotion && typeof cardEl.animate === "function") {
+      exit = cardEl.animate([
+        { transform: "rotateX(0deg) rotateZ(0deg) translateY(0)", opacity: 1 },
+        { transform: "rotateX(18deg) rotateZ(-6deg) translateY(-38px)", opacity: 0 },
+      ], { duration: 210, easing: "cubic-bezier(.45,0,.8,.6)", fill: "forwards" });
+      await exit.finished;
+      renderCard(nextIndex);
+      changed = true;
+      enter = cardEl.animate([
+        { transform: "rotateX(-14deg) rotateZ(4deg) translateY(24px)", opacity: 0 },
+        { transform: "rotateX(0deg) rotateZ(-.6deg) translateY(-3px)", opacity: 1, offset: .8 },
+        { transform: "rotateX(0deg) rotateZ(0deg) translateY(0)", opacity: 1 },
+      ], { duration: 360, easing: "cubic-bezier(.2,.7,.3,1)" });
+      exit.cancel();
+      await enter.finished;
+    } else { renderCard(nextIndex); changed = true; }
+  } catch {
+    // A cancelled animation must still leave a usable, newly drawn card.
+    if (!changed) renderCard(nextIndex);
+  } finally {
+    exit?.cancel();
+    enter?.cancel();
+    cardEl.setAttribute("aria-busy", "false");
+    button.disabled = false;
+    button.classList.remove("is-spinning");
+    drawing = false;
+  }
 });
