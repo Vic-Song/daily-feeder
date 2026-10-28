@@ -47,11 +47,14 @@ for (let index = dailyDeck.length - 1; index > 0; index -= 1) {
 }
 
 function dateStamp(date) {
-  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+  const parts = new Intl.DateTimeFormat("en-US", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit" }).formatToParts(date);
+  const value = (type) => parts.find((part) => part.type === type).value;
+  return `${value("year")}-${value("month")}-${value("day")}`;
 }
 
 function dailyIndex(date) {
-  const localDay = Math.floor(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()) / 86400000);
+  const [year, month, day] = dateStamp(date).split("-").map(Number);
+  const localDay = Math.floor(Date.UTC(year, month - 1, day) / 86400000);
   return dailyDeck[((localDay % dailyDeck.length) + dailyDeck.length) % dailyDeck.length];
 }
 
@@ -76,12 +79,13 @@ function refreshDailyCard() {
   if (stamp === activeDate) return;
   activeDate = stamp;
   dateEl.dateTime = stamp;
-  dateEl.textContent = new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric", weekday: "short" }).format(today);
+  dateEl.textContent = new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", month: "long", day: "numeric", weekday: "short" }).format(today);
   renderCard(dailyIndex(today));
 }
 
 refreshDailyCard();
 window.addEventListener("pageshow", refreshDailyCard);
+setInterval(refreshDailyCard, 60000);
 document.addEventListener("visibilitychange", () => {
   if (!document.hidden) refreshDailyCard();
 });
