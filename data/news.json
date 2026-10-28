@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T15:54:19.208797+00:00",
+  "generatedAt": "2026-10-28T22:37:25.527986+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,19 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-e0aed7fac04fa00e",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
+      "body": "2026年全国游泳锦标赛(25米)28日在北京国家游泳…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
+      "publishedAt": "2026-10-28T22:14:37+00:00"
+    },
     {
       "id": "news-50a7da944c414c86",
       "type": "news",
@@ -322,19 +335,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722169.shtml",
       "publishedAt": "2026-10-28T06:44:54+00:00"
-    },
-    {
-      "id": "news-f44335ac792f9c2d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "总台体育青少中心发言人：不认可皇马的表态",
-      "body": "针对西班牙媒体报道西甲皇马俱乐部就姆巴佩涉华负面言论的表…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722154.shtml",
-      "publishedAt": "2026-10-28T06:07:36+00:00"
     },
     {
       "id": "news-dfe3c47349023469",
