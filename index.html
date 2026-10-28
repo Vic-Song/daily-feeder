@@ -78,6 +78,25 @@
         <p class="small-note">每一天都有一张新卡片，也可以随手再抽一张。</p>
       </section>
 
+      <section class="journal" aria-labelledby="journal-title">
+        <div class="journal-heading"><div><p class="eyebrow">A SMALL NOTE TO YOURSELF</p><h2 id="journal-title">今天的小记录</h2></div><span aria-hidden="true">✎</span></div>
+        <p class="journal-intro">记下一点心情、灵感，或者今天想留住的小事。</p>
+        <form id="note-form">
+          <label for="note-text" id="note-label">写给自己的一小段话</label>
+          <textarea id="note-text" rows="4" maxlength="5000" placeholder="今天，有什么想记下来的？" required></textarea>
+          <div class="note-form-footer"><span id="note-counter">0 / 5000</span><div><button class="note-secondary" id="note-cancel" type="button" hidden>放弃修改</button><button class="note-primary" id="note-save" type="submit">保存记录</button></div></div>
+        </form>
+        <p class="note-status" id="note-status" role="status"></p>
+        <p class="note-privacy">仅保存在当前设备的这个浏览器，不会上传给网站作者。换设备、清理浏览器或使用无痕模式可能丢失，记得导出备份。</p>
+        <details class="note-history" id="note-history" open>
+          <summary>翻翻以前的记录 <span id="note-count">0 条</span></summary>
+          <div class="note-tools"><label class="sr-only" for="note-search">搜索历史记录</label><input type="search" id="note-search" placeholder="搜索记过的内容…" /><button class="note-secondary" id="note-export" type="button">导出备份</button><button class="note-secondary" id="note-import" type="button">导入</button><input id="note-file" type="file" accept=".json,application/json" hidden /></div>
+          <div class="history-tabs" role="group" aria-label="记录范围"><button type="button" id="notes-active" aria-pressed="true">我的记录</button><button type="button" id="notes-trash" aria-pressed="false">最近删除</button></div>
+          <div id="note-list"></div>
+          <button class="note-secondary note-more" id="note-more" type="button" hidden>再看一些</button>
+        </details>
+      </section>
+
       <section class="about-strip">
         <div class="about-icon" aria-hidden="true">☁</div>
         <div><p class="about-title">这里没有任务清单</p><p>想看的时候就打开，没空的时候也完全没关系。</p></div>
@@ -89,5 +108,6 @@
     <noscript><p style="padding: 16px; text-align: center">打开 JavaScript，就能收到今天的灵感卡片。</p></noscript>
     <script src="script.js"></script>
     <script src="weather.js"></script>
+    <script src="journal.js"></script>
   </body>
 </html>
