@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f8f5ef" />
+    <meta name="description" content="每天打开，收下一颗轻松的小灵感。" />
+    <title>今日小小投喂</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="今日小小投喂首页">
+          <span class="brand-mark" aria-hidden="true">✳</span>
+          <span>little feeder</span>
+        </a>
+        <span class="top-note">给今天一点小灵感</span>
+      </header>
+
+      <section class="hero" id="top">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> A LITTLE SOMETHING FOR TODAY</p>
+          <h1>今天也来<br /><em>一点小小投喂</em></h1>
+          <p class="intro">不必打卡，也不用回复。只是给路过的你，留下一颗小小的灵感糖。</p>
+        </div>
+        <div class="sun-doodle" aria-hidden="true"><span>✳</span><i></i><b>✦</b></div>
+        <div class="hero-stamp" aria-hidden="true">OPEN<br />WHENEVER<br />YOU LIKE</div>
+      </section>
+
+      <section class="daily-wrap" aria-label="每日灵感卡片">
+        <div class="daily-meta">
+          <span class="today-label"><span class="sparkle">✦</span> TODAY'S PICK</span>
+          <time id="today-date"></time>
+        </div>
+        <article class="card" id="daily-card" aria-live="polite" aria-atomic="true">
+          <div class="card-topline">
+            <span class="category-pill" id="card-category"></span>
+            <span class="card-number" id="card-number"></span>
+          </div>
+          <div class="card-illustration" id="card-icon" aria-hidden="true"></div>
+          <p class="card-kicker" id="card-kicker"></p>
+          <h2 id="card-title"></h2>
+          <p class="card-body" id="card-body"></p>
+          <div class="card-footer">
+            <span class="tiny-heart" aria-hidden="true">♡</span>
+            <span id="card-footnote">一颗轻轻的脑洞，收好就行。</span>
+          </div>
+        </article>
+        <button class="draw-button" id="draw-again" type="button">
+          <span class="draw-icon" aria-hidden="true">↻</span>
+          再抽一张
+        </button>
+        <p class="small-note">每一天都有一张新卡片，也可以随手再抽一张。</p>
+      </section>
+
+      <section class="about-strip">
+        <div class="about-icon" aria-hidden="true">☁</div>
+        <div><p class="about-title">这里没有任务清单</p><p>想看的时候就打开，没空的时候也完全没关系。</p></div>
+        <span class="about-flower" aria-hidden="true">✿</span>
+      </section>
+
+      <footer class="footer"><span>MADE OF SMALL THOUGHTS</span><span>✦</span><span>FOR A DAY LIKE THIS</span></footer>
+    </main>
+    <noscript><p style="padding: 16px; text-align: center">打开 JavaScript，就能收到今天的灵感卡片。</p></noscript>
+    <script src="script.js"></script>
+  </body>
+</html>
