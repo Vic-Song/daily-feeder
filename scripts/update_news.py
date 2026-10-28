@@ -1,5 +1,6 @@
 """Turn official RSS headlines into a small, dated, same-origin news feed."""
 import hashlib
+import html
 import json
 import re
 import sys
@@ -17,6 +18,8 @@ FEEDS = {
     "文化": "https://www.chinanews.com.cn/rss/culture.xml",
     "生活": "https://www.chinanews.com.cn/rss/life.xml",
     "体育": "https://www.chinanews.com.cn/rss/sports.xml",
+    "教育": "https://www.chinanews.com.cn/rss/edu.xml",
+    "创意": "https://www.chinanews.com.cn/rss/chuangyi.xml",
 }
 MAX_AGE = timedelta(days=3)
 
@@ -50,18 +53,26 @@ def parse_feed(payload, topic, now):
             if not timedelta(minutes=-5) <= now - published <= MAX_AGE:
                 continue
             link = safe_link(item.findtext("link", ""))
+            description = html.unescape(re.sub(r"<[^>]+>", "", item.findtext("description", "")))
+            description = re.sub(r"^\s*(?:中新网|中新社).*?电\s*(?:[（(].*?[）)])?", "", description)
+            description = re.sub(r"\s+", " ", description).strip()
+            # Keep a very short attributed feed excerpt, rather than republishing articles.
+            budget = max(0, 48 - len(title))
+            excerpt = description[:budget].rstrip() if budget >= 12 else ""
+            if excerpt and len(description) > budget:
+                excerpt += "…"
             cards.append({
                 "id": "news-" + hashlib.sha256(link.encode()).hexdigest()[:16],
                 "type": "news", "category": f"新闻 · {topic}", "icon": "▤", "kicker": "A HEADLINE TO EXPLORE",
                 "title": title,
-                "body": "一条来自中国新闻网的新闻标题。感兴趣的话，可以打开原文，看看事情的来龙去脉。",
-                "note": "标题来自新闻订阅，正文与后续进展以原报道为准。",
+                "body": excerpt or f"来自{topic}栏目的一条消息，点击原文查看具体内容。",
+                "note": "新闻标题与导语节选 · 完整语境请见原文。",
                 "sourceName": "中国新闻网", "sourceUrl": link,
                 "publishedAt": published.isoformat(),
             })
         except (TypeError, ValueError, OverflowError):
             continue
-    return sorted(cards, key=lambda card: card["publishedAt"], reverse=True)[:6]
+    return sorted(cards, key=lambda card: card["publishedAt"], reverse=True)[:10]
 
 
 def fetch_feed(pair, now):

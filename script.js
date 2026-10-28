@@ -53,8 +53,11 @@ function freshNews(card) {
   return card.type === "news" && Number.isFinite(age) && age >= -5 * 60 * 1000 && age <= NEWS_MAX_AGE;
 }
 
+function contentGroup(card) {
+  return card.type === "news" ? "news" : ["knowledge", "history"].includes(card.type) ? "learn" : "fun";
+}
 function eligibleIndices() {
-  return cards.map((_, index) => index).filter((index) => (selectedFilter === "all" || cards[index].type === selectedFilter) && (cards[index].type !== "news" || freshNews(cards[index])));
+  return cards.map((_, index) => index).filter((index) => (selectedFilter === "all" || contentGroup(cards[index]) === selectedFilter) && (cards[index].type !== "news" || freshNews(cards[index])));
 }
 
 function chooseNextIndex() {
@@ -64,9 +67,13 @@ function chooseNextIndex() {
   if (!pool.length) return eligible[0] ?? -1;
   // Balance content types so the larger original idea collection cannot crowd out facts or jokes.
   if (selectedFilter === "all") {
-    const types = [...new Set(pool.map((index) => cards[index].type))];
+    const types = [...new Set(pool.map((index) => contentGroup(cards[index])))];
     const type = types[Math.floor(Math.random() * types.length)];
-    pool = pool.filter((index) => cards[index].type === type);
+    pool = pool.filter((index) => contentGroup(cards[index]) === type);
+  }
+  if (pool.every((index) => contentGroup(cards[index]) === "fun")) {
+    const jokes = pool.filter((index) => cards[index].type === "joke");
+    if (jokes.length && Math.random() < .75) pool = jokes;
   }
   return pool[Math.floor(Math.random() * pool.length)];
 }
@@ -220,12 +227,12 @@ async function loadNews() {
     const data = await response.json();
     const generated = Date.parse(data.generatedAt);
     if (data.version !== 1 || !Array.isArray(data.items) || !Number.isFinite(generated) || generated > Date.now() + 5 * 60 * 1000) throw new Error("Invalid news feed");
-    for (const item of data.items.slice(0, 30)) {
+    for (const item of data.items.slice(0, 60)) {
       if (item?.type !== "news" || !freshNews(item) || typeof item.id !== "string" || !item.id.startsWith("news-") || typeof item.title !== "string" || !item.title.trim() || item.title.length > 70 || typeof item.sourceUrl !== "string") continue;
       let url;
       try { url = new URL(item.sourceUrl); } catch { continue; }
       if (url.protocol !== "https:" || !["www.chinanews.com.cn", "www.chinanews.com"].includes(url.hostname) || url.username || url.password) continue;
-      const card = { ...item, category: typeof item.category === "string" && item.category.length < 30 ? item.category : "新闻", sourceName: "中国新闻网", body: "一条来自中国新闻网的新闻标题。感兴趣的话，可以打开原文，看看事情的来龙去脉。", icon: "▤", kicker: "A HEADLINE TO EXPLORE", note: "标题来自新闻订阅，正文与后续进展以原报道为准。" };
+      const card = { ...item, category: typeof item.category === "string" && item.category.length < 30 ? item.category.replace(/^新闻/, "新鲜事") : "新鲜事", sourceName: "中国新闻网", body: typeof item.body === "string" ? item.body.slice(0, 160) : "点击原文查看具体内容。", icon: "▤", kicker: "A LITTLE SOMETHING NEW", note: "新闻标题与导语节选 · 完整语境请见原文。" };
       const existing = cards.findIndex((entry) => entry.id === card.id);
       if (existing >= 0) cards[existing] = card; else cards.push(card);
     }
