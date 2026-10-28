@@ -34,6 +34,8 @@ python3 -m http.server 4173
 
 科普来源包括 [NASA](https://science.nasa.gov/)、[NIST](https://www.nist.gov/)、[伦敦自然历史博物馆](https://www.nhm.ac.uk/)、[Python 官方文档](https://docs.python.org/3/faq/general.html)；历史信息使用 CERN、NASA、FIFA、LEGO 等机构的官方资料。正文为简短转述，具体链接写在各条便签中。笑话是虚构娱乐内容。
 
+修改 CSS 或 JavaScript 后，运行 `python3 scripts/version_assets.py` 更新 `index.html` 中的资源版本号，并一起提交。版本号来自文件内容的 SHA-256，避免新页面沿用浏览器缓存中的旧样式或脚本；可用 `python3 scripts/version_assets.py --check` 检查。此过程不涉及浏览器记录数据，也不需要清理用户存储。
+
 ## 新闻来源与更新
 
 `scripts/update_news.py` 通过 Python 标准库读取[中国新闻网官方 RSS](https://www.chinanews.com.cn/rss/)的文化、生活和体育栏目。仅保留标题、发布时间和原文链接，不转载文章正文。过滤评论类标题和部分健康建议类生活标题；不做未经来源确认的自动摘要。

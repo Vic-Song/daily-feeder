@@ -122,8 +122,8 @@ h1 em { color: var(--green); font-style: normal; }
 .journal-toggle { display: flex; align-items: center; gap: 10px; padding: 17px 22px; list-style: none; cursor: pointer; color: #53644a; }
 .journal-toggle::-webkit-details-marker { display: none; }.journal-toggle:focus-visible { outline: 2px solid #9faf91; outline-offset: 4px; }
 .journal-icon { font-size: 22px; color: #aa9475; }#journal-title { font: 600 16px var(--serif); }
-.journal-hint { margin-left: auto; font-size: 10px; color: #969c8b; }.journal-chevron { font-size: 18px; color: #8d9a7f; transition: transform .2s; }
-.journal-close-label { display: none; }.journal[open] > .journal-toggle .journal-open-label { display: none; }.journal[open] > .journal-toggle .journal-close-label { display: inline; }.journal[open] > .journal-toggle .journal-chevron { transform: rotate(45deg); }
+.journal-hint { margin-left: auto; font-size: 10px; color: #969c8b; }.journal-chevron { font-size: 18px; color: #8d9a7f; transition: transform .2s; }.journal-chevron::before { content: "＋"; }
+.journal[open] > .journal-toggle .journal-chevron { transform: rotate(45deg); }
 .journal[open] > .journal-toggle { border-bottom: 1px solid var(--line); margin-bottom: 18px; }.journal-content { padding: 0 28px 20px; }
 .journal-intro { margin: 13px 0 22px; font-size: 12px; color: #7d8276; }
 #note-form > label { display: block; margin-bottom: 9px; font-size: 12px; color: #66745e; }
