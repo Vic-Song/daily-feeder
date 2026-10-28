@@ -1,4 +1,4 @@
-const cards = [
+const originalCards = [
   { category: "3D 打印灵感", icon: "⌂", kicker: "MAKE SOMETHING TINY", title: "给一只迷路的耳机做个小房子", body: "它可以长什么样？是太空舱、蘑菇屋，还是一只张着嘴的小怪兽？今天的设计任务：让它看起来像是自己选了这个家。", note: "小东西，也值得有自己的家。" },
   { category: "编程脑洞", icon: "⌘", kicker: "A TINY CODING QUEST", title: "给机器人三个新指令", body: "如果机器人只能听懂三个指令，你会用哪三个，让它从教室门口走到讲台？可以认真设计，也可以让它一路跳着过去。", note: "答案不止一种，最好玩的那种也算。" },
   { category: "喜剧脑洞", icon: "☻", kicker: "IMAGINE THE SCENE", title: "如果观众席里坐着一只猫", body: "它全程面无表情，只有某个包袱讲完后轻轻“喵”了一声。你觉得哪种笑点能让它终于破功？", note: "祝现场的猫观众笑出声。" },
@@ -30,14 +30,66 @@ const cards = [
   { category: "足球小选择", icon: "⚡", kicker: "ONE QUICK QUESTION", title: "给球员设计一个新庆祝动作", body: "动作要简单到小朋友也能学会，又不能和现有的太像。你会让它像什么？一只飞鸟、一段舞步，还是一个迷你 3D 打印道具？", note: "创意庆祝，版权归你的想象力。" },
   { category: "随手一问", icon: "☼", kicker: "A LITTLE DAYDREAM", title: "给忙碌的一天留一个小小暂停", body: "三分钟也好：看看窗外、喝口水、听一首歌，或者什么都不做。你最喜欢哪一种短暂的重启方式？", note: "暂停不是偷懒，是给自己一点空间。" },
 ];
+const cards = [...(window.FEED_CARDS || []), ...originalCards.map((card, index) => ({ ...card, id: `idea-${index + 1}`, type: "idea", sourceName: "本站原创 · 灵感与脑洞" }))];
 
 const dateEl = document.querySelector("#today-date");
 const dayEl = document.querySelector("#card-number");
 const cardEl = document.querySelector("#daily-card");
+const filterEl = document.querySelector("#card-filter");
+const drawButton = document.querySelector("#draw-again");
 let currentIndex = -1;
 let activeDate = "";
 let drawing = false;
 const notePapers = ["#fff1b8", "#e5edd5", "#f8e0d7", "#e1edf1", "#f5e9cd"];
+let selectedFilter = "all";
+let recentIndices = [];
+let newsLoaded = false;
+let newsLoading = false;
+let lastNewsRequest = 0;
+const NEWS_MAX_AGE = 3 * 24 * 60 * 60 * 1000;
+
+function freshNews(card) {
+  const age = Date.now() - Date.parse(card.publishedAt);
+  return card.type === "news" && Number.isFinite(age) && age >= -5 * 60 * 1000 && age <= NEWS_MAX_AGE;
+}
+
+function eligibleIndices() {
+  return cards.map((_, index) => index).filter((index) => (selectedFilter === "all" || cards[index].type === selectedFilter) && (cards[index].type !== "news" || freshNews(cards[index])));
+}
+
+function chooseNextIndex() {
+  const eligible = eligibleIndices();
+  let pool = eligible.filter((index) => index !== currentIndex && !recentIndices.includes(index));
+  if (!pool.length) pool = eligible.filter((index) => index !== currentIndex);
+  if (!pool.length) return eligible[0] ?? -1;
+  // Balance content types so the larger original idea collection cannot crowd out facts or jokes.
+  if (selectedFilter === "all") {
+    const types = [...new Set(pool.map((index) => cards[index].type))];
+    const type = types[Math.floor(Math.random() * types.length)];
+    pool = pool.filter((index) => cards[index].type === type);
+  }
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+function syncControls() {
+  const total = eligibleIndices().length;
+  document.querySelector("#feed-count").textContent = `${total} 张可翻阅`;
+  drawButton.disabled = drawing || total < 2;
+  filterEl.disabled = drawing;
+}
+
+function renderEmpty() {
+  currentIndex = -1;
+  document.querySelector("#card-category").textContent = "新闻";
+  document.querySelector("#card-icon").textContent = "▤";
+  document.querySelector("#card-kicker").textContent = "WAITING FOR A LITTLE NEWS";
+  document.querySelector("#card-title").textContent = newsLoaded ? "暂时没有近三天的新消息" : "正在找一张新闻便签";
+  document.querySelector("#card-body").textContent = "可以先切到小知识、旧闻或冷笑话。新闻会保留发布日期，过时的内容不会冒充新消息。";
+  document.querySelector("#card-footnote").textContent = "没有新闻时，也还有别的东西可以看看。";
+  document.querySelector("#card-source").hidden = true;
+  dayEl.textContent = "NEWS";
+  syncControls();
+}
 
 // A stable shuffled deck gives every card a turn before the daily cycle repeats.
 const dailyDeck = cards.map((_, index) => index);
@@ -62,15 +114,29 @@ function dailyIndex(date) {
 
 function renderCard(index) {
   const card = cards[index];
+  if (!card) { renderEmpty(); return; }
   currentIndex = index;
+  recentIndices = [...recentIndices.filter((item) => item !== index), index].slice(-5);
   document.querySelector("#card-category").textContent = card.category;
   document.querySelector("#card-icon").textContent = card.icon;
   document.querySelector("#card-kicker").textContent = card.kicker;
   document.querySelector("#card-title").textContent = card.title;
   document.querySelector("#card-body").textContent = card.body;
   document.querySelector("#card-footnote").textContent = card.note;
-  dayEl.textContent = `NO. ${String(index + 1).padStart(2, "0")}`;
+  dayEl.textContent = card.type === "news" ? "NEWS" : `NO. ${String(index + 1).padStart(2, "0")}`;
   cardEl.style.setProperty("--note-paper", notePapers[index % notePapers.length]);
+  const source = document.querySelector("#card-source");
+  const link = document.querySelector("#card-source-link");
+  const name = document.querySelector("#card-source-name");
+  source.hidden = !card.sourceName;
+  const dateText = card.type === "news" ? `发布于 ${new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).format(new Date(card.publishedAt))}` : card.eventDate ? `往事 · ${card.eventDate}` : "";
+  document.querySelector("#card-source-date").textContent = dateText;
+  const safe = typeof card.sourceUrl === "string" && card.sourceUrl.startsWith("https://");
+  link.hidden = !safe;
+  name.hidden = Boolean(safe);
+  if (safe) { link.href = card.sourceUrl; link.textContent = `${card.sourceName} · ${card.type === "news" ? "阅读原文" : "查看出处"} ↗`; }
+  else { link.removeAttribute("href"); name.textContent = card.sourceName || ""; }
+  syncControls();
 }
 
 function refreshDailyCard() {
@@ -80,7 +146,8 @@ function refreshDailyCard() {
   activeDate = stamp;
   dateEl.dateTime = stamp;
   dateEl.textContent = new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", month: "long", day: "numeric", weekday: "short" }).format(today);
-  renderCard(dailyIndex(today));
+  if (selectedFilter === "all") renderCard(dailyIndex(today));
+  else { const index = chooseNextIndex(); if (index >= 0) renderCard(index); else renderEmpty(); }
 }
 
 refreshDailyCard();
@@ -90,11 +157,12 @@ document.addEventListener("visibilitychange", () => {
   if (!document.hidden) refreshDailyCard();
 });
 
-document.querySelector("#draw-again").addEventListener("click", async (event) => {
+drawButton.addEventListener("click", async (event) => {
   if (drawing) return;
+  const nextIndex = chooseNextIndex();
+  if (nextIndex < 0 || nextIndex === currentIndex) return;
   drawing = true;
-  let nextIndex = Math.floor(Math.random() * (cards.length - 1));
-  if (nextIndex >= currentIndex) nextIndex += 1;
+  filterEl.disabled = true;
   const button = event.currentTarget;
   button.disabled = true;
   cardEl.setAttribute("aria-busy", "true");
@@ -129,8 +197,55 @@ document.querySelector("#draw-again").addEventListener("click", async (event) =>
     exit?.cancel();
     enter?.cancel();
     cardEl.setAttribute("aria-busy", "false");
-    button.disabled = false;
     button.classList.remove("is-spinning");
     drawing = false;
+    syncControls();
   }
 });
+
+filterEl.addEventListener("change", () => {
+  selectedFilter = filterEl.value;
+  recentIndices = [];
+  const index = chooseNextIndex();
+  if (index >= 0) renderCard(index); else renderEmpty();
+});
+
+async function loadNews() {
+  if (newsLoading) return;
+  newsLoading = true;
+  lastNewsRequest = Date.now();
+  try {
+    const response = await fetch(`data/news.json?t=${Math.floor(Date.now() / (15 * 60 * 1000))}`, { cache: "no-store", credentials: "omit", signal: AbortSignal.timeout(10000) });
+    if (!response.ok) throw new Error("News unavailable");
+    const data = await response.json();
+    const generated = Date.parse(data.generatedAt);
+    if (data.version !== 1 || !Array.isArray(data.items) || !Number.isFinite(generated) || generated > Date.now() + 5 * 60 * 1000) throw new Error("Invalid news feed");
+    for (const item of data.items.slice(0, 30)) {
+      if (item?.type !== "news" || !freshNews(item) || typeof item.id !== "string" || !item.id.startsWith("news-") || typeof item.title !== "string" || !item.title.trim() || item.title.length > 70 || typeof item.sourceUrl !== "string") continue;
+      let url;
+      try { url = new URL(item.sourceUrl); } catch { continue; }
+      if (url.protocol !== "https:" || !["www.chinanews.com.cn", "www.chinanews.com"].includes(url.hostname) || url.username || url.password) continue;
+      const card = { ...item, category: typeof item.category === "string" && item.category.length < 30 ? item.category : "新闻", sourceName: "中国新闻网", body: "一条来自中国新闻网的新闻标题。感兴趣的话，可以打开原文，看看事情的来龙去脉。", icon: "▤", kicker: "A HEADLINE TO EXPLORE", note: "标题来自新闻订阅，正文与后续进展以原报道为准。" };
+      const existing = cards.findIndex((entry) => entry.id === card.id);
+      if (existing >= 0) cards[existing] = card; else cards.push(card);
+    }
+    const total = cards.filter(freshNews).length;
+    const stamp = new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).format(new Date(generated));
+    document.querySelector("#feed-news-status").textContent = `新闻${Date.now() - generated > 12 * 60 * 60 * 1000 ? "上次" : ""}同步 ${stamp} · ${total} 条近三天消息${data.failedTopics?.length ? " · 部分来源暂未更新" : ""}`;
+  } catch {
+    document.querySelector("#feed-news-status").textContent = "新闻暂时没连上，小知识、旧闻和笑话照常翻阅。";
+  } finally {
+    newsLoaded = true;
+    newsLoading = false;
+    if (selectedFilter === "news" && !drawing && (currentIndex < 0 || !freshNews(cards[currentIndex]))) {
+      const index = chooseNextIndex();
+      if (index >= 0) renderCard(index); else renderEmpty();
+    }
+    syncControls();
+  }
+}
+loadNews();
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden && Date.now() - lastNewsRequest > 15 * 60 * 1000) loadNews();
+});
+setInterval(() => { if (!document.hidden) loadNews(); }, 15 * 60 * 1000);

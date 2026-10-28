@@ -57,6 +57,8 @@
           <span class="today-label"><span class="sparkle">✦</span> TODAY'S PICK</span>
           <time id="today-date"></time>
         </div>
+        <div class="feed-toolbar"><label for="card-filter">今天想看点什么</label><select id="card-filter"><option value="all">随便看看</option><option value="knowledge">小知识 / 冷知识</option><option value="history">旧闻回看</option><option value="joke">冷笑话</option><option value="news">近三天新闻</option><option value="idea">灵感与脑洞</option></select><span id="feed-count"></span></div>
+        <p class="feed-news-status" id="feed-news-status" role="status">正在看看有没有新消息…</p>
         <div class="note-stack" id="note-stack">
         <article class="card" id="daily-card" aria-live="polite" aria-atomic="true">
           <span class="note-tape" aria-hidden="true"></span>
@@ -68,6 +70,7 @@
           <p class="card-kicker" id="card-kicker"></p>
           <h2 id="card-title"></h2>
           <p class="card-body" id="card-body"></p>
+          <div class="card-source" id="card-source" hidden><span id="card-source-date"></span><a id="card-source-link" target="_blank" rel="noopener noreferrer"></a><span id="card-source-name"></span></div>
           <div class="card-footer">
             <span class="tiny-heart" aria-hidden="true">♡</span>
             <span id="card-footnote">一颗轻轻的脑洞，收好就行。</span>
@@ -78,7 +81,7 @@
           <span class="draw-icon" aria-hidden="true">↻</span>
           再抽一张
         </button>
-        <p class="small-note">每一天都有一张新卡片，也可以随手再抽一张。</p>
+        <p class="small-note">每天一张小便签，也能选个分类随手翻翻。</p>
       </section>
 
       <section class="journal" aria-labelledby="journal-title">
@@ -109,6 +112,7 @@
       <footer class="footer"><span>MADE OF SMALL THOUGHTS</span><span>✦</span><span>FOR A DAY LIKE THIS</span></footer>
     </main>
     <noscript><p style="padding: 16px; text-align: center">打开 JavaScript，就能收到今天的灵感卡片。</p></noscript>
+    <script src="content.js"></script>
     <script src="script.js"></script>
     <script src="weather.js"></script>
     <script src="journal.js"></script>
