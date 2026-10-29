@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T22:37:25.527986+00:00",
+  "generatedAt": "2026-10-29T05:51:03.497541+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,97 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-8a476f979c3ea943",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国选手施晗首进广网巡回赛八强",
+      "body": "2026年广州国际女子网球公开赛28日展开第二轮的争夺，中国选手施…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722656.shtml",
+      "publishedAt": "2026-10-29T05:29:55+00:00"
+    },
+    {
+      "id": "news-0c5869822b3ecf09",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "配速员赛道中途换装被禁赛 处罚能否强化管理规范的约束力？",
+      "body": "近日，在一场马拉松赛事中，两名官方配速员…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722636.shtml",
+      "publishedAt": "2026-10-29T03:25:26+00:00"
+    },
+    {
+      "id": "news-0f767cb3670b28ef",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "文物安全的红线，碰不得",
+      "body": "原标题：文物安全的红线，碰不得(金台锐评)",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722586.shtml",
+      "publishedAt": "2026-10-29T02:29:13+00:00"
+    },
+    {
+      "id": "news-a0f42ede5f2ed512",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《山河如愿》上海巡演圆满落幕 初心之地奏响红色乐章",
+      "body": "为纪念中国工农红军长征胜利90周年，大型原创民…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722549.shtml",
+      "publishedAt": "2026-10-29T01:44:32+00:00"
+    },
+    {
+      "id": "news-26ac8f667fc66524",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "U17女足世界杯 中国队今晚迎战法国队",
+      "body": "北京时间10月29日，2026年摩洛哥U17女足世界杯1/…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722534.shtml",
+      "publishedAt": "2026-10-29T01:21:15+00:00"
+    },
+    {
+      "id": "news-38218dc1917b0adb",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国网球，释放新动能",
+      "body": "网球中国赛季品牌化第二年，更多本土球员走到聚光灯下",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722519.shtml",
+      "publishedAt": "2026-10-29T00:09:53+00:00"
+    },
+    {
+      "id": "news-6b2057692e063952",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "山东沾化渔鼓戏创新剧目表达方式，“圈粉”年轻人",
+      "body": "山东沾化渔鼓戏创新剧目表达方式，“圈粉”年轻人",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722518.shtml",
+      "publishedAt": "2026-10-29T00:05:55+00:00"
+    },
     {
       "id": "news-e0aed7fac04fa00e",
       "type": "news",
@@ -181,45 +272,6 @@
       "publishedAt": "2026-10-28T11:13:39+00:00"
     },
     {
-      "id": "news-f4afc89bade9feb1",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“节序在家”艺术展开幕 让非遗回归“正在生长的生活”",
-      "body": "获得中国美术家协会“策展100”项目学术指导…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-28/10722362.shtml",
-      "publishedAt": "2026-10-28T11:09:02+00:00"
-    },
-    {
-      "id": "news-bd66e7ebce1f90c9",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "西南当代现实主义题材雕塑创作巡展亮相发起地四川美院",
-      "body": "“文心世相：西南当代现实主义题材雕塑创作巡展”…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-28/10722357.shtml",
-      "publishedAt": "2026-10-28T11:07:00+00:00"
-    },
-    {
-      "id": "news-afb01259a854a55e",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "从文化到科技 中外嘉宾天台山下对话“和合”",
-      "body": "“和合文化发源于天台山，它是中国古人处理人与自然、人与…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-28/10722355.shtml",
-      "publishedAt": "2026-10-28T11:03:56+00:00"
-    },
-    {
       "id": "news-a7e9df55e49f35bb",
       "type": "news",
       "category": "新闻 · 体育",
@@ -246,19 +298,6 @@
       "publishedAt": "2026-10-28T08:59:05+00:00"
     },
     {
-      "id": "news-05a2cbf73dd67ec0",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《青少年体育培训行为规范》将实施 明确执教人员资质要求",
-      "body": "中国国家体育总局印发的《青少年体育培训行为…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722255.shtml",
-      "publishedAt": "2026-10-28T08:38:00+00:00"
-    },
-    {
       "id": "news-591e471c98c99223",
       "type": "news",
       "category": "新闻 · 生活",
@@ -270,32 +309,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-28/10722260.shtml",
       "publishedAt": "2026-10-28T08:33:32+00:00"
-    },
-    {
-      "id": "news-33410135d3790621",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年“中国国家队公益服务大行动”走进江西崇义",
-      "body": "2026年“中国国家队公益服务大行动”27日走…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722247.shtml",
-      "publishedAt": "2026-10-28T08:26:44+00:00"
-    },
-    {
-      "id": "news-8650758edea00de2",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年全国艺术体操冠军赛铜川落幕 王子露独揽五金",
-      "body": "2026年全国艺术体操冠军赛27日在铜川体育…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722230.shtml",
-      "publishedAt": "2026-10-28T08:07:49+00:00"
     },
     {
       "id": "news-7da2b549fb9435c2",
@@ -322,19 +335,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
       "publishedAt": "2026-10-28T07:41:27+00:00"
-    },
-    {
-      "id": "news-f98968df1cf83729",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "举重世锦赛：杨洋斩获两金一铜 赵金红摘得三银",
-      "body": "2026世界举重锦标赛于27日在宁波奥体中心开启首个…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722169.shtml",
-      "publishedAt": "2026-10-28T06:44:54+00:00"
     },
     {
       "id": "news-dfe3c47349023469",
