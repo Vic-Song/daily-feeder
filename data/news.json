@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T13:05:27.610993+00:00",
+  "generatedAt": "2026-10-29T22:47:01.485669+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,97 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-d2a4b552da7d73bb",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+      "body": "题：桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+      "publishedAt": "2026-10-29T15:51:50+00:00"
+    },
+    {
+      "id": "news-538ae372f26d483d",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
+      "body": "“在欧洲，人们对中医药有着浓厚兴趣，对中国文…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
+      "publishedAt": "2026-10-29T15:48:34+00:00"
+    },
+    {
+      "id": "news-322c1760ca8bd14a",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA常规赛：北控队主场大胜四川队",
+      "body": "29日晚在北京国家奥林匹克体育中心体育馆举行的2026-202…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10723075.shtml",
+      "publishedAt": "2026-10-29T15:42:22+00:00"
+    },
+    {
+      "id": "news-36deea6959018eb8",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "古韵新声引客来 傣族章哈成西双版纳文旅名片",
+      "body": "10月29日，云南省西双版纳傣族自治州曼听御花园剧场座…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10723068.shtml",
+      "publishedAt": "2026-10-29T15:34:13+00:00"
+    },
+    {
+      "id": "news-beca4e028ab14118",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026两岸青年新文创成果发布会在厦门举行",
+      "body": "10月29日，以“正青春·同心创未来”为主题的2026…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10723017.shtml",
+      "publishedAt": "2026-10-29T13:58:56+00:00"
+    },
+    {
+      "id": "news-a11e1dd73d1d9c1d",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“笃志——复旦书画双年邀请展”启幕",
+      "body": "上海复旦大学“笃志——复旦书画双年邀请展”日前在上海图书馆启幕…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722995.shtml",
+      "publishedAt": "2026-10-29T13:12:54+00:00"
+    },
+    {
+      "id": "news-8574e22ef2da0021",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "500余位教育领域专家齐聚山东济南 共研基础教育扩优提质实施路径",
+      "body": "中国教育学会区域教育创新与发展研…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-29/10722988.shtml",
+      "publishedAt": "2026-10-29T13:09:19+00:00"
+    },
     {
       "id": "news-04f964372096a00d",
       "type": "news",
@@ -155,32 +246,6 @@
       "publishedAt": "2026-10-29T08:31:04+00:00"
     },
     {
-      "id": "news-8b4b54d40335fc88",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "演员刘端端首执导筒带来爱情主题话剧《今宵酒·醒何处》",
-      "body": "中国国家话剧院演员刘端端首执导筒带来爱情主题…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722798.shtml",
-      "publishedAt": "2026-10-29T08:28:06+00:00"
-    },
-    {
-      "id": "news-53d1da06255cddce",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《武舞融韵·沪上风华》专场演出在德国汉堡举行",
-      "body": "由上海体育大学艺术学院与武术学院共同创作的《武舞融韵…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722791.shtml",
-      "publishedAt": "2026-10-29T08:25:08+00:00"
-    },
-    {
       "id": "news-9466ddae3e936374",
       "type": "news",
       "category": "新闻 · 生活",
@@ -192,32 +257,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-29/10722793.shtml",
       "publishedAt": "2026-10-29T08:20:38+00:00"
-    },
-    {
-      "id": "news-8ba52ac1e9398568",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "从“一部剧”到“一条链” 山西微短剧跑出加速度",
-      "body": "在中共山西省委宣传部、山西省人民政府新闻办公室29…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722751.shtml",
-      "publishedAt": "2026-10-29T08:07:43+00:00"
-    },
-    {
-      "id": "news-d24f69cac0a0b3c5",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年7月至9月，338部国产微短剧、网络动画片获得发行许可",
-      "body": "据国家广播电视总局微信公众号消息…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722713.shtml",
-      "publishedAt": "2026-10-29T06:57:57+00:00"
     },
     {
       "id": "news-380cd1688deba440",
@@ -309,19 +348,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
       "publishedAt": "2026-10-28T14:18:23+00:00"
-    },
-    {
-      "id": "news-b7ec378bee28e100",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "第16届辽宁省残疾人健身周主场活动在沈启动",
-      "body": "第16届辽宁省残疾人健身周全省主场--匹克球推广活动2…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722425.shtml",
-      "publishedAt": "2026-10-28T13:24:08+00:00"
     },
     {
       "id": "news-23ceb689b698cdf2",
