@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T12:59:00.987522+00:00",
+  "generatedAt": "2026-10-30T22:23:00.835720+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,110 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-59cb6a8e7c625b8d",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《八闽文化与中国式现代化》丛书在福州发布",
+      "body": "30日，梳理福建地域文化与中国式现代化关联的《八闽文化与…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723713.shtml",
+      "publishedAt": "2026-10-30T16:32:32+00:00"
+    },
+    {
+      "id": "news-257c7128989e1b58",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“长征星火照东城”主题展览在北京开幕",
+      "body": "“长征星火照东城”主题展览30日在北京东城开幕。展览通过珍贵…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723709.shtml",
+      "publishedAt": "2026-10-30T16:25:59+00:00"
+    },
+    {
+      "id": "news-263cc55d16f89b59",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "名家讲经典：万方、王可然谈经典戏剧的当代生命力",
+      "body": "“名家讲经典——万方、王可然：从《雷雨》开始，谈戏…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723707.shtml",
+      "publishedAt": "2026-10-30T16:23:25+00:00"
+    },
+    {
+      "id": "news-e0519499ae43d0c7",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "以赛促练、以赛育人——2026年北京市体育传统项目学校系列比赛收官",
+      "body": "从春暖花开到硕果累累，2026…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-31/10723695.shtml",
+      "publishedAt": "2026-10-30T16:18:01+00:00"
+    },
+    {
+      "id": "news-7649bff16dba7894",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "西藏自治区第三届乡村篮球联赛2026“千年盐田”康BA暨芒康县“渝津闽藏”球类“三交”活动圆满收官",
+      "body": "来自体育栏目的一条消息，点击原文查看具体内容。",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-31/10723694.shtml",
+      "publishedAt": "2026-10-30T16:12:31+00:00"
+    },
+    {
+      "id": "news-f4973cb00904e26b",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国最北滑雪场开板迎客",
+      "body": "30日，2026漠河北极滑雪场首滑仪式启幕。",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723654.shtml",
+      "publishedAt": "2026-10-30T13:43:04+00:00"
+    },
+    {
+      "id": "news-1ffbb6adac6f5ff0",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026年世界国际跳棋青少年锦标赛在山东新泰开赛",
+      "body": "2026年世界国际跳棋青少年锦标赛30日在山东泰…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723633.shtml",
+      "publishedAt": "2026-10-30T13:34:15+00:00"
+    },
+    {
+      "id": "news-dd4134a15f053e57",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "罗工柳艺术文献展亮相国博 呈现“求索”与“担当”的艺术生涯",
+      "body": "“求索与担当——罗工柳艺术文献展”正在…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723630.shtml",
+      "publishedAt": "2026-10-30T13:32:29+00:00"
+    },
     {
       "id": "news-849684deaa1ab73c",
       "type": "news",
@@ -155,19 +259,6 @@
       "publishedAt": "2026-10-30T08:56:48+00:00"
     },
     {
-      "id": "news-e2a3710a417ba8a8",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "新大众文艺视域下喜剧美学的跨学科突围学术研讨会在西安举行",
-      "body": "由陕西省社科联指导，陕西省喜剧美学研究会…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723424.shtml",
-      "publishedAt": "2026-10-30T08:36:37+00:00"
-    },
-    {
       "id": "news-8660b2a85fdefe52",
       "type": "news",
       "category": "新闻 · 体育",
@@ -192,45 +283,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-30/10723403.shtml",
       "publishedAt": "2026-10-30T08:18:34+00:00"
-    },
-    {
-      "id": "news-035d0f539f484aac",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国首部白茶主题院线纪录电影《白茶人生》在福鼎公映",
-      "body": "30日，《白茶人生》院线电影福鼎公映仪式在“中…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723345.shtml",
-      "publishedAt": "2026-10-30T07:30:36+00:00"
-    },
-    {
-      "id": "news-1bcbc764eb053d2b",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "敦煌印象：画家的“壁上人生”",
-      "body": "“因为一个人，爱上了一座城。这过去是网络上的一句流行语，现在竟然在我…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723348.shtml",
-      "publishedAt": "2026-10-30T07:29:36+00:00"
-    },
-    {
-      "id": "news-591e72a0452bc83d",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国石化“寻访中埃青年文化使者”决赛暨颁奖典礼在开罗举行",
-      "body": "10月26日，由中国驻埃及大使馆指导、中…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723328.shtml",
-      "publishedAt": "2026-10-30T07:25:43+00:00"
     },
     {
       "id": "news-96ae0ae829095141",
@@ -270,58 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723200.shtml",
       "publishedAt": "2026-10-30T03:22:08+00:00"
-    },
-    {
-      "id": "news-88f59cac12171188",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "U17女足世界杯：中国队点球4:3淘汰法国队 队史首进八强",
-      "body": "当地时间29日，2026年国际足联U1…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723156.shtml",
-      "publishedAt": "2026-10-30T02:34:14+00:00"
-    },
-    {
-      "id": "news-77dc0c5a82a09e1d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "女篮训练赛发生肢体冲突 中国篮协通报",
-      "body": "据中国篮球协会网站消息，中国篮球协会29日晚发布情况通报称，…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723116.shtml",
-      "publishedAt": "2026-10-30T01:45:21+00:00"
-    },
-    {
-      "id": "news-06da6a510757a801",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "全国“村BA”总决赛落幕 咸丰白茶队蝉联亚军",
-      "body": "第四届全国和美乡村篮球大赛(村BA)总决赛冠军争夺战…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723118.shtml",
-      "publishedAt": "2026-10-30T01:24:22+00:00"
-    },
-    {
-      "id": "news-6921330da58498a0",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "世界杯分组出炉，中国女排再拼奥运“门票”",
-      "body": "世界杯分组出炉，前3名球队将获得洛杉矶奥运会席位",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723091.shtml",
-      "publishedAt": "2026-10-29T23:28:58+00:00"
     },
     {
       "id": "news-538ae372f26d483d",
@@ -478,19 +478,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
       "publishedAt": "2026-10-28T00:27:36+00:00"
-    },
-    {
-      "id": "news-385907b3170dc555",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中俄基础教育界代表在渝交流 发布《AI赋能基础教育合作倡议》",
-      "body": "中国(重庆)—俄罗斯基础教育校长交流…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-27/10721908.shtml",
-      "publishedAt": "2026-10-27T13:40:28+00:00"
     }
   ]
 }
