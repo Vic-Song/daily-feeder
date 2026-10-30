@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T22:47:01.485669+00:00",
+  "generatedAt": "2026-10-30T05:52:01.382408+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,123 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-de44e5cb0f2bfec0",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "蒋非默艺术展用现代视觉语言诠释传统禅宗文化",
+      "body": "“默照家风——蒋非默艺术展”日前在宁波启幕，艺术家以书…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723260.shtml",
+      "publishedAt": "2026-10-30T05:29:25+00:00"
+    },
+    {
+      "id": "news-85d5a7d8ac33a3fe",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国小将孙心然首进广网巡回赛单打八强",
+      "body": "2026年广州国际女子网球公开赛29日继续第二轮的争夺，中国…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723217.shtml",
+      "publishedAt": "2026-10-30T03:37:07+00:00"
+    },
+    {
+      "id": "news-65ff971c362eac39",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "首届中俄中学生篮球邀请赛落地东宁",
+      "body": "10月29日，中俄教育年2026(中国·东宁)第一届中俄中学生篮…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723200.shtml",
+      "publishedAt": "2026-10-30T03:22:08+00:00"
+    },
+    {
+      "id": "news-88f59cac12171188",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "U17女足世界杯：中国队点球4:3淘汰法国队 队史首进八强",
+      "body": "当地时间29日，2026年国际足联U1…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723156.shtml",
+      "publishedAt": "2026-10-30T02:34:14+00:00"
+    },
+    {
+      "id": "news-f3c09fcc83342bf1",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "演艺活力浸润全城 武汉聚力打造“演艺名城”",
+      "body": "刚刚落幕的第十六届武汉国际杂技艺术节，来自14个国家的…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723162.shtml",
+      "publishedAt": "2026-10-30T02:24:29+00:00"
+    },
+    {
+      "id": "news-57a9c007b655b86b",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第十六届中国摄影艺术节在河南三门峡启幕",
+      "body": "第十六届中国摄影艺术节暨第十六届中国摄影金像奖颁奖典礼29…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723147.shtml",
+      "publishedAt": "2026-10-30T02:17:13+00:00"
+    },
+    {
+      "id": "news-77dc0c5a82a09e1d",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "女篮训练赛发生肢体冲突 中国篮协通报",
+      "body": "据中国篮球协会网站消息，中国篮球协会29日晚发布情况通报称，…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723116.shtml",
+      "publishedAt": "2026-10-30T01:45:21+00:00"
+    },
+    {
+      "id": "news-06da6a510757a801",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "全国“村BA”总决赛落幕 咸丰白茶队蝉联亚军",
+      "body": "第四届全国和美乡村篮球大赛(村BA)总决赛冠军争夺战…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723118.shtml",
+      "publishedAt": "2026-10-30T01:24:22+00:00"
+    },
+    {
+      "id": "news-6921330da58498a0",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "世界杯分组出炉，中国女排再拼奥运“门票”",
+      "body": "世界杯分组出炉，前3名球队将获得洛杉矶奥运会席位",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723091.shtml",
+      "publishedAt": "2026-10-29T23:28:58+00:00"
+    },
     {
       "id": "news-d2a4b552da7d73bb",
       "type": "news",
@@ -142,19 +259,6 @@
       "publishedAt": "2026-10-29T11:30:20+00:00"
     },
     {
-      "id": "news-b8f2252bc245635f",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "李小达：身体只是创作的土壤，艺术的评判交给画布",
-      "body": "画室之内，松节油的气味在空气中漫开，李小达俯身站在…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722887.shtml",
-      "publishedAt": "2026-10-29T11:08:03+00:00"
-    },
-    {
       "id": "news-cb6b471c52b2ea53",
       "type": "news",
       "category": "新闻 · 体育",
@@ -166,19 +270,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722872.shtml",
       "publishedAt": "2026-10-29T11:07:07+00:00"
-    },
-    {
-      "id": "news-604a98e215ab39bc",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《尚公主》海外同步播出 多平台登顶热播榜",
-      "body": "古装爱情剧《尚公主》近日开播，国内热播同时，同步登陆Di…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722871.shtml",
-      "publishedAt": "2026-10-29T10:48:34+00:00"
     },
     {
       "id": "news-f5736189561c524a",
@@ -233,19 +324,6 @@
       "publishedAt": "2026-10-29T08:54:50+00:00"
     },
     {
-      "id": "news-9cfe3306759b5844",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "导演黄军：好电影关键在能否真正打动人心",
-      "body": "28日，“中国电影创作高质量发展”学术季第五场研讨会在北京…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-29/10722780.shtml",
-      "publishedAt": "2026-10-29T08:31:04+00:00"
-    },
-    {
       "id": "news-9466ddae3e936374",
       "type": "news",
       "category": "新闻 · 生活",
@@ -270,84 +348,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722669.shtml",
       "publishedAt": "2026-10-29T05:54:58+00:00"
-    },
-    {
-      "id": "news-8a476f979c3ea943",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国选手施晗首进广网巡回赛八强",
-      "body": "2026年广州国际女子网球公开赛28日展开第二轮的争夺，中国选手施…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722656.shtml",
-      "publishedAt": "2026-10-29T05:29:55+00:00"
-    },
-    {
-      "id": "news-0c5869822b3ecf09",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "配速员赛道中途换装被禁赛 处罚能否强化管理规范的约束力？",
-      "body": "近日，在一场马拉松赛事中，两名官方配速员…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722636.shtml",
-      "publishedAt": "2026-10-29T03:25:26+00:00"
-    },
-    {
-      "id": "news-26ac8f667fc66524",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "U17女足世界杯 中国队今晚迎战法国队",
-      "body": "北京时间10月29日，2026年摩洛哥U17女足世界杯1/…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722534.shtml",
-      "publishedAt": "2026-10-29T01:21:15+00:00"
-    },
-    {
-      "id": "news-38218dc1917b0adb",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国网球，释放新动能",
-      "body": "网球中国赛季品牌化第二年，更多本土球员走到聚光灯下",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722519.shtml",
-      "publishedAt": "2026-10-29T00:09:53+00:00"
-    },
-    {
-      "id": "news-e0aed7fac04fa00e",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
-      "body": "2026年全国游泳锦标赛(25米)28日在北京国家游泳…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
-      "publishedAt": "2026-10-28T22:14:37+00:00"
-    },
-    {
-      "id": "news-cf95dab0d8554b5d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
-      "body": "第四届天门山“云纵天梯”跑酷大赛将于11月4日至…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
-      "publishedAt": "2026-10-28T14:18:23+00:00"
     },
     {
       "id": "news-23ceb689b698cdf2",
@@ -478,19 +478,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-27/10721748.shtml",
       "publishedAt": "2026-10-27T09:25:26+00:00"
-    },
-    {
-      "id": "news-1f768bc304a2f738",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "高钾、低钠、抗氧化！这种水果界的“人参”现在吃正合适",
-      "body": "维 C 是柠檬的 3 倍！这种水果界的“人参…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-27/10721542.shtml",
-      "publishedAt": "2026-10-27T03:20:14+00:00"
     }
   ]
 }
