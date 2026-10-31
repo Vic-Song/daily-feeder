@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T22:23:00.835720+00:00",
+  "generatedAt": "2026-10-31T05:45:03.526496+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,175 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-147c31da61239098",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "俄罗斯百年经典《天鹅湖》亮相桂林 开启中俄艺术跨文化对话",
+      "body": "10月30日晚，作为2026桂林艺术节唯…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723848.shtml",
+      "publishedAt": "2026-10-31T05:02:12+00:00"
+    },
+    {
+      "id": "news-2e3da39113bcbdc2",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "书香伴出行 哈尔滨地铁10万张“书厢地铁 阅见冰城”纪念票开售",
+      "body": "为深耕城市公共阅读文化，10月31…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723847.shtml",
+      "publishedAt": "2026-10-31T05:01:08+00:00"
+    },
+    {
+      "id": "news-eaf0c57958d94dc8",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
+      "body": "当人工智能可以参与实验、撰写甚至审核论文，论文还…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+      "publishedAt": "2026-10-31T04:30:01+00:00"
+    },
+    {
+      "id": "news-84145aa92abd9a3b",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
+      "body": "“以前在课本上看智能制造，感觉比较抽象，总觉…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
+      "publishedAt": "2026-10-31T03:11:04+00:00"
+    },
+    {
+      "id": "news-fe6775535a185815",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
+      "body": "10月30日，第88届中国教育装备展…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
+      "publishedAt": "2026-10-31T03:09:28+00:00"
+    },
+    {
+      "id": "news-4b2ce6b1458891de",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "政策红利直达科研一线 助力敦煌文化遗产保护研究",
+      "body": "兰州海关所属敦煌机场海关近日快速审核并出具《征免税…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723814.shtml",
+      "publishedAt": "2026-10-31T03:08:52+00:00"
+    },
+    {
+      "id": "news-8f24eef9e699dd77",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "暨南大学原创文化精品大师剧《振铎》焕新公演 好评如潮",
+      "body": "10月30日晚，暨南大学原创文化精品大师剧《…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723799.shtml",
+      "publishedAt": "2026-10-31T02:47:33+00:00"
+    },
+    {
+      "id": "news-d5c27c85c1ba273b",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "当影像成“第五位演员”，《后日之后·秅极共生》探索本土原创实验戏剧新表达",
+      "body": "10月28日晚，北京鼓楼…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723766.shtml",
+      "publishedAt": "2026-10-31T02:06:25+00:00"
+    },
+    {
+      "id": "news-597847238a99065b",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
+      "body": "30日，“民筑之路·国之寸轨”个碧石铁路…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723775.shtml",
+      "publishedAt": "2026-10-31T01:33:41+00:00"
+    },
+    {
+      "id": "news-34dec2fc0b6078be",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“粤产”戏曲音乐微电影《帝女花》斩获第三届香港国际短片节最佳短片奖",
+      "body": "据广东广播电视台消息，由广东广…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723759.shtml",
+      "publishedAt": "2026-10-31T01:26:01+00:00"
+    },
+    {
+      "id": "news-6980ca85c034a96d",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "近800名粤港澳青少年齐聚深圳“以武会友”",
+      "body": "2026年粤港澳大湾区青少年武术套路比赛(简称“赛事”…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-31/10723737.shtml",
+      "publishedAt": "2026-10-30T23:46:33+00:00"
+    },
+    {
+      "id": "news-24c60fdf7a45e199",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第四届哈尔滨文化时尚周启幕",
+      "body": "30日，以“凝练东方韵致，焕新冰城时尚——构筑文化与时尚潮流地域”为主…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723730.shtml",
+      "publishedAt": "2026-10-30T23:42:57+00:00"
+    },
+    {
+      "id": "news-6fd9985ee1579614",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA深圳队外援史密斯因兴奋剂检测呈阳性被暂时禁赛",
+      "body": "中国篮球协会30日晚发布情况通报称，中国男子篮…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-31/10723719.shtml",
+      "publishedAt": "2026-10-30T22:48:02+00:00"
+    },
     {
       "id": "news-59cb6a8e7c625b8d",
       "type": "news",
@@ -36,19 +205,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723709.shtml",
       "publishedAt": "2026-10-30T16:25:59+00:00"
-    },
-    {
-      "id": "news-263cc55d16f89b59",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "名家讲经典：万方、王可然谈经典戏剧的当代生命力",
-      "body": "“名家讲经典——万方、王可然：从《雷雨》开始，谈戏…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-31/10723707.shtml",
-      "publishedAt": "2026-10-30T16:23:25+00:00"
     },
     {
       "id": "news-e0519499ae43d0c7",
@@ -103,19 +259,6 @@
       "publishedAt": "2026-10-30T13:34:15+00:00"
     },
     {
-      "id": "news-dd4134a15f053e57",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "罗工柳艺术文献展亮相国博 呈现“求索”与“担当”的艺术生涯",
-      "body": "“求索与担当——罗工柳艺术文献展”正在…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723630.shtml",
-      "publishedAt": "2026-10-30T13:32:29+00:00"
-    },
-    {
       "id": "news-849684deaa1ab73c",
       "type": "news",
       "category": "新闻 · 教育",
@@ -127,32 +270,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/10-30/10723575.shtml",
       "publishedAt": "2026-10-30T12:24:46+00:00"
-    },
-    {
-      "id": "news-2fd75d7a822d578f",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "（文化新纪行）从古人“朋友圈”到今人“生活圈”：磁州窑历千年不衰",
-      "body": "题：从古人“朋友圈”到今人“生活…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723586.shtml",
-      "publishedAt": "2026-10-30T12:01:56+00:00"
-    },
-    {
-      "id": "news-5ec231b3e33d85d3",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“京韵书香”首都青少年文化体验研学营走进军事博物馆",
-      "body": "由共青团北京市委员会指导、北京青少年服务中心主…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723530.shtml",
-      "publishedAt": "2026-10-30T11:01:53+00:00"
     },
     {
       "id": "news-fc612285ed32aac4",
@@ -168,19 +285,6 @@
       "publishedAt": "2026-10-30T11:01:05+00:00"
     },
     {
-      "id": "news-b5752e995d30fdf6",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“X教授”演员帕特里克·斯图尔特去世，遗作《复仇者联盟5》年底上映",
-      "body": "当地时间10月28日，英国知名…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723497.shtml",
-      "publishedAt": "2026-10-30T10:08:46+00:00"
-    },
-    {
       "id": "news-e00f47e2fbd7ea24",
       "type": "news",
       "category": "新闻 · 体育",
@@ -192,32 +296,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723498.shtml",
       "publishedAt": "2026-10-30T10:04:20+00:00"
-    },
-    {
-      "id": "news-2b63b1ace1ad4a23",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "科技赋能拓展音乐+场景 Music China 2026打造音乐生态场",
-      "body": "接入大模型的AI音乐陪练系…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723495.shtml",
-      "publishedAt": "2026-10-30T09:58:20+00:00"
-    },
-    {
-      "id": "news-27ed535c3d9531b5",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“孙中山与上海”文物史料展在上海革命历史博物馆开幕",
-      "body": "2026年是孙中山先生诞辰160周年。由上海革…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723468.shtml",
-      "publishedAt": "2026-10-30T09:28:30+00:00"
     },
     {
       "id": "news-b77774e2b503ac34",
@@ -244,19 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723429.shtml",
       "publishedAt": "2026-10-30T09:00:16+00:00"
-    },
-    {
-      "id": "news-0b2a0b16686aefdf",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "明内长城与平型关红色资源叠加 山西灵丘三色文旅“串珠成链”",
-      "body": "“灵丘长城一边是明代边关古垣，一边是平…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/10-30/10723433.shtml",
-      "publishedAt": "2026-10-30T08:56:48+00:00"
     },
     {
       "id": "news-8660b2a85fdefe52",
@@ -296,32 +361,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-30/10723329.shtml",
       "publishedAt": "2026-10-30T07:09:53+00:00"
-    },
-    {
-      "id": "news-85d5a7d8ac33a3fe",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国小将孙心然首进广网巡回赛单打八强",
-      "body": "2026年广州国际女子网球公开赛29日继续第二轮的争夺，中国…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723217.shtml",
-      "publishedAt": "2026-10-30T03:37:07+00:00"
-    },
-    {
-      "id": "news-65ff971c362eac39",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "首届中俄中学生篮球邀请赛落地东宁",
-      "body": "10月29日，中俄教育年2026(中国·东宁)第一届中俄中学生篮…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/10-30/10723200.shtml",
-      "publishedAt": "2026-10-30T03:22:08+00:00"
     },
     {
       "id": "news-538ae372f26d483d",
@@ -465,19 +504,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
       "publishedAt": "2026-10-28T07:41:27+00:00"
-    },
-    {
-      "id": "news-dfe3c47349023469",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "秋色染金！全国银杏观赏地图出炉 多种玩法带你探索银杏之美",
-      "body": "中国天气网讯 凉风渐起，秋色染金。随着气…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
-      "publishedAt": "2026-10-28T00:27:36+00:00"
     }
   ]
 }
