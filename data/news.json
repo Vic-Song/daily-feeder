@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T13:27:42.032988+00:00",
+  "generatedAt": "2026-11-01T22:04:07.852298+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,58 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-f9958519509efcf1",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA一周综述：北京一骑绝尘 宁波一胜难求",
+      "body": "2026-2027赛季中国男子篮球职业联赛(CBA)在…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724523.shtml",
+      "publishedAt": "2026-11-01T15:40:04+00:00"
+    },
+    {
+      "id": "news-4b08ceeda5a954ec",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA第7轮：山西主场95:89胜四川取得两连胜",
+      "body": "2026-2027赛季中国男子篮球职业联赛(CB…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724515.shtml",
+      "publishedAt": "2026-11-01T15:23:49+00:00"
+    },
+    {
+      "id": "news-ea0b81d39ef67732",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "英国选手达特夺得广网女单冠军",
+      "body": "2026年广州国际女子网球公开赛(下称“广网”)11月1日收官。在单…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724516.shtml",
+      "publishedAt": "2026-11-01T15:21:45+00:00"
+    },
+    {
+      "id": "news-5c21fcfacc181a09",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA第7轮：赵继伟“供能” 辽宁主场20分大胜深圳",
+      "body": "2026-2027赛季中国男子篮球职业联赛(…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724514.shtml",
+      "publishedAt": "2026-11-01T15:20:25+00:00"
+    },
     {
       "id": "news-61870046789921f3",
       "type": "news",
@@ -194,19 +246,6 @@
       "publishedAt": "2026-11-01T11:11:52+00:00"
     },
     {
-      "id": "news-25fed8e7f6bf3735",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "徒步中国·大众徒步挑战赛（重庆·梁平站）开赛 选手穿行竹海与古蜀道",
-      "body": "1日，徒步中国·大众徒步挑战赛…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724423.shtml",
-      "publishedAt": "2026-11-01T10:58:53+00:00"
-    },
-    {
       "id": "news-0935ee10dd22cd1c",
       "type": "news",
       "category": "新闻 · 生活",
@@ -259,19 +298,6 @@
       "publishedAt": "2026-11-01T10:10:58+00:00"
     },
     {
-      "id": "news-ebae1a5f59ccc1bd",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“角逐未来”长三角青少年足球联赛收官 上海队包揽男女组冠军",
-      "body": "“角逐未来”长三角青少年足球联赛于10…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724394.shtml",
-      "publishedAt": "2026-11-01T10:10:00+00:00"
-    },
-    {
       "id": "news-ef78e55caea75945",
       "type": "news",
       "category": "新闻 · 文化",
@@ -296,32 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724391.shtml",
       "publishedAt": "2026-11-01T10:06:02+00:00"
-    },
-    {
-      "id": "news-45be7a056be1a213",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "交管机器人护航杭州马拉松 探索大型赛事安保新模式",
-      "body": "2026杭州马拉松11月1日举行。当日，杭州公安…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724385.shtml",
-      "publishedAt": "2026-11-01T10:05:02+00:00"
-    },
-    {
-      "id": "news-75e137503449eaad",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年中国轮滑（自由式轮滑）公开赛（上海嘉定站）落幕",
-      "body": "2026年中国轮滑(自由式轮滑)公开赛(…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724376.shtml",
-      "publishedAt": "2026-11-01T09:46:53+00:00"
     },
     {
       "id": "news-2f2cfe2531ed4eca",
