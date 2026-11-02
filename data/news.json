@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T22:04:07.852298+00:00",
+  "generatedAt": "2026-11-02T06:09:10.762106+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -12,56 +12,238 @@
   "failedTopics": [],
   "items": [
     {
-      "id": "news-f9958519509efcf1",
+      "id": "news-372a9cfbdeb48f13",
       "type": "news",
       "category": "新闻 · 体育",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "CBA一周综述：北京一骑绝尘 宁波一胜难求",
-      "body": "2026-2027赛季中国男子篮球职业联赛(CBA)在…",
+      "title": "南京外秦淮河上演13.14公里赛艇马拉松 全国两百余名桨手竞逐",
+      "body": "11月1日，“欧普照明杯”2026…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724523.shtml",
-      "publishedAt": "2026-11-01T15:40:04+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724731.shtml",
+      "publishedAt": "2026-11-02T05:59:19+00:00"
     },
     {
-      "id": "news-4b08ceeda5a954ec",
+      "id": "news-7c95ee092f66303f",
       "type": "news",
-      "category": "新闻 · 体育",
+      "category": "新闻 · 文化",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "CBA第7轮：山西主场95:89胜四川取得两连胜",
-      "body": "2026-2027赛季中国男子篮球职业联赛(CB…",
+      "title": "上海自然博物馆70周年展启幕",
+      "body": "“古稀·少年——上海自然博物馆70周年展”11月1日晚在该馆启幕，向…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724515.shtml",
-      "publishedAt": "2026-11-01T15:23:49+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-02/10724709.shtml",
+      "publishedAt": "2026-11-02T05:46:54+00:00"
     },
     {
-      "id": "news-ea0b81d39ef67732",
+      "id": "news-df1f164998c94053",
       "type": "news",
-      "category": "新闻 · 体育",
+      "category": "新闻 · 文化",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "英国选手达特夺得广网女单冠军",
-      "body": "2026年广州国际女子网球公开赛(下称“广网”)11月1日收官。在单…",
+      "title": "川籍音乐家节日管弦乐团全球首演 40余位川籍音乐家携乐归乡",
+      "body": "第32届“蓉城之秋”成都国际音乐季11…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724516.shtml",
-      "publishedAt": "2026-11-01T15:21:45+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-02/10724705.shtml",
+      "publishedAt": "2026-11-02T05:45:44+00:00"
     },
     {
-      "id": "news-5c21fcfacc181a09",
+      "id": "news-641c22186b59a137",
       "type": "news",
       "category": "新闻 · 体育",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "CBA第7轮：赵继伟“供能” 辽宁主场20分大胜深圳",
-      "body": "2026-2027赛季中国男子篮球职业联赛(…",
+      "title": "CBA常规赛：前场篮板失守 吉林主场负广州",
+      "body": "在1日晚进行的2026-2027赛季CBA常规赛第七轮…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724514.shtml",
-      "publishedAt": "2026-11-01T15:20:25+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724670.shtml",
+      "publishedAt": "2026-11-02T03:35:33+00:00"
+    },
+    {
+      "id": "news-ad81743ea69b1973",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《鲜味中国》首播出圈：从山海之鲜里，看见文化与人心",
+      "body": "10月30日，由广东卫视、爱奇艺联合出品、厨邦…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-02/10724657.shtml",
+      "publishedAt": "2026-11-02T03:26:09+00:00"
+    },
+    {
+      "id": "news-27b645df4204fb09",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "江西省第十七届运动会开幕 首次引入冬季项目",
+      "body": "11月1日晚，江西省第十七届运动会(以下简称“江西省运…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724638.shtml",
+      "publishedAt": "2026-11-02T02:49:51+00:00"
+    },
+    {
+      "id": "news-671237a3b030b6f3",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国村网（京山）总决赛收官 网球赋能乡村发展",
+      "body": "10月31日至11月1日，第五届中国网球协会网球社区…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724624.shtml",
+      "publishedAt": "2026-11-02T02:45:51+00:00"
+    },
+    {
+      "id": "news-9f617facaf79cd74",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "每周至少半天校外实践教学将在全国推行 专家建议",
+      "body": "每周至少半天校外实践教学将在全国推行 专家建议",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-02/10724637.shtml",
+      "publishedAt": "2026-11-02T02:45:41+00:00"
+    },
+    {
+      "id": "news-6f85112a63700a43",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "全国国防体育运动锦标赛勇士定向专项赛在京落幕",
+      "body": "2026年全国国防体育运动锦标赛勇士定向专项赛日前在…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724585.shtml",
+      "publishedAt": "2026-11-02T02:38:44+00:00"
+    },
+    {
+      "id": "news-be983887e46848a5",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《尚公主》：以“我本位”写双强爱情，以慢叙事见长剧底气",
+      "body": "近期，由孟子义、李昀锐三度搭档主演的古装匠…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-02/10724582.shtml",
+      "publishedAt": "2026-11-02T02:13:55+00:00"
+    },
+    {
+      "id": "news-d937ae3d2de91a1d",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "广东省第十届群众音乐舞蹈花会收官 19个作品夺金",
+      "body": "10月28日至11月1日，广东省第十届群众音乐舞…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-02/10724599.shtml",
+      "publishedAt": "2026-11-02T02:13:47+00:00"
+    },
+    {
+      "id": "news-c1ffba9046c73bbf",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "U17女足世界杯：中国队1:2遭巴西逆转止步八强",
+      "body": "当地时间11月1日，2026年国际足联U17女足…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724579.shtml",
+      "publishedAt": "2026-11-02T01:59:26+00:00"
+    },
+    {
+      "id": "news-463430d8357e067d",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "WTT蒙彼利埃冠军赛：孙颖莎女单夺冠",
+      "body": "当地时间11月1日，2026年世界乒乓球职业大联盟(WTT)…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724556.shtml",
+      "publishedAt": "2026-11-02T01:53:36+00:00"
+    },
+    {
+      "id": "news-1e23054b7968eb0f",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "赛道串联古村落 山西祁县乔家大院村跑吸引900余人参赛",
+      "body": "图为村跑现场。张慧杰 摄 中新网晋中11月…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724562.shtml",
+      "publishedAt": "2026-11-02T01:42:31+00:00"
+    },
+    {
+      "id": "news-900ec1a9622efc8b",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "游泳名将徐嘉余：勇敢试，给运动生涯创造新可能",
+      "body": "连续刷新短池亚洲纪录、世界纪录，31岁游泳名将徐嘉余…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724561.shtml",
+      "publishedAt": "2026-11-02T01:34:59+00:00"
+    },
+    {
+      "id": "news-f75e2fc42f6c1487",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
+      "body": "来自教育栏目的一条消息，点击原文查看具体内容。",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+      "publishedAt": "2026-11-01T23:28:54+00:00"
+    },
+    {
+      "id": "news-0adc1e189717bfd7",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中外顶尖剑客聚首西安 格鲁吉亚与美国选手分获佩剑、花剑冠军",
+      "body": "2026长安剑客国际击剑精英赛11月1…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724525.shtml",
+      "publishedAt": "2026-11-01T22:54:40+00:00"
+    },
+    {
+      "id": "news-3358d416ee0e89fc",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
+      "body": "如果把地球冷冻一下，温室效应会得到缓解吗？汽油…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
+      "publishedAt": "2026-11-01T22:42:47+00:00"
     },
     {
       "id": "news-61870046789921f3",
@@ -77,19 +259,6 @@
       "publishedAt": "2026-11-01T12:54:55+00:00"
     },
     {
-      "id": "news-7999a1b2c90f1abb",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "孙颖莎战胜王艺迪晋级决赛 将与蒯曼争夺冠军",
-      "body": "北京时间11月1日，2026年WTT蒙彼利埃冠军赛继续…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
-      "publishedAt": "2026-11-01T12:53:27+00:00"
-    },
-    {
       "id": "news-13af17897d111d06",
       "type": "news",
       "category": "新闻 · 文化",
@@ -103,19 +272,6 @@
       "publishedAt": "2026-11-01T12:24:45+00:00"
     },
     {
-      "id": "news-050c0738c6cbf943",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国·十八洞山地越野挑战赛开赛 奔跑见证山乡蝶变",
-      "body": "11月1日，2026第三届中国·十八洞山地越野挑…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724480.shtml",
-      "publishedAt": "2026-11-01T12:23:33+00:00"
-    },
-    {
       "id": "news-e1730591b2b73000",
       "type": "news",
       "category": "新闻 · 文化",
@@ -127,19 +283,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-01/10724481.shtml",
       "publishedAt": "2026-11-01T12:22:21+00:00"
-    },
-    {
-      "id": "news-bf932c0de9c4d217",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "桃醉平谷第十一届京津冀公路自行车大众挑战赛开赛",
-      "body": "桃醉平谷第十一届京津冀公路自行车大众挑战赛11月1…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724478.shtml",
-      "publishedAt": "2026-11-01T12:19:31+00:00"
     },
     {
       "id": "news-830411d72fcd0c5e",
@@ -181,45 +324,6 @@
       "publishedAt": "2026-11-01T11:57:42+00:00"
     },
     {
-      "id": "news-12e370c1e753dd9e",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "以杭州马拉松为窗：在奔跑中读懂一座城",
-      "body": "11月1日，2026杭州马拉松在黄龙体育中心鸣枪开跑，约3万…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724452.shtml",
-      "publishedAt": "2026-11-01T11:38:49+00:00"
-    },
-    {
-      "id": "news-77d8d0f9ddf8aebb",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026斯巴达勇士儿童赛杭州站落幕",
-      "body": "10月31日至11月1日，2026斯巴达勇士儿童赛杭州站举行，…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724445.shtml",
-      "publishedAt": "2026-11-01T11:27:34+00:00"
-    },
-    {
-      "id": "news-e8e50d6077f3e841",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "浙VA，让城乡球友“打成一片”",
-      "body": "10月30日至11月1日，2026年浙江省城乡气排球公开赛(浙VA…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-01/10724442.shtml",
-      "publishedAt": "2026-11-01T11:24:46+00:00"
-    },
-    {
       "id": "news-d342634e3a948830",
       "type": "news",
       "category": "新闻 · 文化",
@@ -259,19 +363,6 @@
       "publishedAt": "2026-11-01T10:29:03+00:00"
     },
     {
-      "id": "news-3c40c1fd343c4d2a",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "从“怕被仿”到“敢创新” 当民间文艺作品有了版权“护身符”",
-      "body": "题：从“怕被仿”到“敢创新” 当民间文…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-01/10724405.shtml",
-      "publishedAt": "2026-11-01T10:28:57+00:00"
-    },
-    {
       "id": "news-33bb88ab819b661e",
       "type": "news",
       "category": "新闻 · 教育",
@@ -283,32 +374,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724407.shtml",
       "publishedAt": "2026-11-01T10:28:21+00:00"
-    },
-    {
-      "id": "news-7d23ea885a36a7ee",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "内蒙古六旬妇女巴图其其格：她把蒙古族头饰缝“大”了",
-      "body": "题：内蒙古六旬妇女巴图其其格：她把蒙古族头饰缝…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-01/10724398.shtml",
-      "publishedAt": "2026-11-01T10:10:58+00:00"
-    },
-    {
-      "id": "news-ef78e55caea75945",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026汉风古韵国潮嘉年华系列活动在陕西汉中启幕",
-      "body": "记者1日从陕西汉中官方获悉，“东西南北中·度假到…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-01/10724397.shtml",
-      "publishedAt": "2026-11-01T10:09:06+00:00"
     },
     {
       "id": "news-19854afd5312b690",
@@ -335,32 +400,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724335.shtml",
       "publishedAt": "2026-11-01T08:44:26+00:00"
-    },
-    {
-      "id": "news-9eaa9025d058d7f5",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "罗曼·西格纳个展亮相上海 解读“时间雕塑”大师的幽默与诗意",
-      "body": "绑着火药的凳子腾空而起、轰然坠落，系着…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-01/10724340.shtml",
-      "publishedAt": "2026-11-01T08:42:25+00:00"
-    },
-    {
-      "id": "news-1609c737d29ce6fa",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "看见有温度的中国 多国创作者用短视频分享在华故事",
-      "body": "近日，第五届“我眼中的中国”外国人讲中国故事短视…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-01/10724339.shtml",
-      "publishedAt": "2026-11-01T08:40:55+00:00"
     },
     {
       "id": "news-b36edacd165214a2",
@@ -480,32 +519,6 @@
       "publishedAt": "2026-11-01T01:36:02+00:00"
     },
     {
-      "id": "news-c8f3c6e060e7349d",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "提醒！2027国考今起报名确认",
-      "body": "2027国考通过用人单位资格审查345万人。国家公务员局郑重提醒，…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724157.shtml",
-      "publishedAt": "2026-11-01T01:09:35+00:00"
-    },
-    {
-      "id": "news-ce9b2d3e69e3aa72",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
-      "body": "11月1日，强制性国家标准《中小学…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
-      "publishedAt": "2026-10-31T22:39:35+00:00"
-    },
-    {
       "id": "news-c13396dbd2430344",
       "type": "news",
       "category": "新闻 · 生活",
@@ -517,19 +530,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-30/10723403.shtml",
       "publishedAt": "2026-10-30T08:18:34+00:00"
-    },
-    {
-      "id": "news-96ae0ae829095141",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "为什么你明明没买什么大件，钱却总是不翼而飞？",
-      "body": "你有没有过这种感觉？",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/10-30/10723329.shtml",
-      "publishedAt": "2026-10-30T07:09:53+00:00"
     }
   ]
 }
