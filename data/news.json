@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T14:19:08.683327+00:00",
+  "generatedAt": "2026-11-03T23:24:57.852326+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,97 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-efb35f9f650e9bc2",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA常规赛：辽宁队险胜广州队 赢下第一阶段收官战",
+      "body": "2026-2027赛季中国男子篮球职业联赛(C…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
+      "publishedAt": "2026-11-03T23:05:48+00:00"
+    },
+    {
+      "id": "news-43c3a20157982fc4",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "北京队主场大胜宁波队 豪取CBA常规赛八连胜",
+      "body": "11月3日晚在北京首钢冰球馆举行的2026-2027…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-04/10725703.shtml",
+      "publishedAt": "2026-11-03T23:03:27+00:00"
+    },
+    {
+      "id": "news-e061590cc5065d31",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBA常规赛：山西队险胜新疆队取得三连胜",
+      "body": "2026-2027赛季中国男子篮球职业联赛(CBA)常规…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-03/10725691.shtml",
+      "publishedAt": "2026-11-03T15:56:30+00:00"
+    },
+    {
+      "id": "news-f04227657c389206",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
+      "body": "当AI生成内容引发权属争议，当跨境IP转化面临授权难…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
+      "publishedAt": "2026-11-03T15:55:54+00:00"
+    },
+    {
+      "id": "news-bdaa907f9ef12c1d",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "亚洲演出娱乐行业峰会2026春城启幕 400余名嘉宾共探演艺新局",
+      "body": "3日，“声动亚太·春城花语”亚洲…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725684.shtml",
+      "publishedAt": "2026-11-03T15:52:18+00:00"
+    },
+    {
+      "id": "news-4ac810e4777f73a1",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "以东方吉祥美学迎亚太盛会 珐琅铜雕《丝路吉羊》首发",
+      "body": "大美敦煌·匠启新章——常沙娜珐琅铜雕《丝路吉羊…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725679.shtml",
+      "publishedAt": "2026-11-03T15:48:05+00:00"
+    },
+    {
+      "id": "news-d0cbd2c33910134a",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026年全国优秀科普图书作品推荐发布暨三晋文化大模型发布活动在太原举行",
+      "body": "11月3日，2026年全…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725656.shtml",
+      "publishedAt": "2026-11-03T15:25:42+00:00"
+    },
     {
       "id": "news-8c5bcbed4cce95a4",
       "type": "news",
@@ -116,19 +207,6 @@
       "publishedAt": "2026-11-03T11:30:30+00:00"
     },
     {
-      "id": "news-2f75c4f87a3ac9e2",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
-      "body": "11月3日，在2026年全国优秀科普图书作…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725516.shtml",
-      "publishedAt": "2026-11-03T11:30:26+00:00"
-    },
-    {
       "id": "news-f3a27de8e012537e",
       "type": "news",
       "category": "新闻 · 教育",
@@ -168,19 +246,6 @@
       "publishedAt": "2026-11-03T11:09:08+00:00"
     },
     {
-      "id": "news-0eb440f18d5ec966",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "海南岛国际电影节升级惠民举措惠及市民游客",
-      "body": "11月3日，第八届海南岛国际电影节新闻发布会在海口举行。…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725491.shtml",
-      "publishedAt": "2026-11-03T10:43:59+00:00"
-    },
-    {
       "id": "news-2bf08916338a67c5",
       "type": "news",
       "category": "新闻 · 教育",
@@ -192,32 +257,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-03/10725470.shtml",
       "publishedAt": "2026-11-03T10:12:49+00:00"
-    },
-    {
-      "id": "news-6fca8370bf9455c7",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026扬州大众文化“创享计划”发布 主题聚焦“让每一种表达都被看见”",
-      "body": "3日，2026扬州市大众文…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725430.shtml",
-      "publishedAt": "2026-11-03T08:57:43+00:00"
-    },
-    {
-      "id": "news-70d51f4e157477a5",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "绘就年度电影地图！海南岛国际电影节披露三大策展方向",
-      "body": "“本届电影节的选片，将为大家呈现出一张既有国际…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725427.shtml",
-      "publishedAt": "2026-11-03T08:51:23+00:00"
     },
     {
       "id": "news-31eace3c1ac21dfc",
@@ -374,45 +413,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
       "publishedAt": "2026-11-02T22:41:12+00:00"
-    },
-    {
-      "id": "news-b9bd48c88a64aaff",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "李宁：体育是普通人奔赴热爱的舞台",
-      "body": "2026李宁李永波杯3V3羽毛球赛全国总决赛1日在北京收官。上海…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10725072.shtml",
-      "publishedAt": "2026-11-02T14:46:36+00:00"
-    },
-    {
-      "id": "news-2e3c6fd090e77f01",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "千名青少年绳跃第二届全国全民健身大赛（华南区）",
-      "body": "11月1日，第二届全国全民健身大赛(华南区)·20…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10724943.shtml",
-      "publishedAt": "2026-11-02T13:17:19+00:00"
-    },
-    {
-      "id": "news-057267040b2ef20d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "苏俊涛/刘莉莉海岸赛艇摘金 夺得中国代表团达喀尔青奥会首金",
-      "body": "新华社达喀尔11月2日电 在刚刚结束的…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-02/10725009.shtml",
-      "publishedAt": "2026-11-02T13:03:32+00:00"
     },
     {
       "id": "news-9f617facaf79cd74",
