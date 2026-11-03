@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T15:58:16.335811+00:00",
+  "generatedAt": "2026-11-03T00:59:43.380981+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,32 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-7b2109db8f99fb44",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "控制食量可减轻慢性炎症 3种方法帮你抗炎抗衰减重",
+      "body": "网传轻断食可减脂抗炎、延年益寿",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-03/10725095.shtml",
+      "publishedAt": "2026-11-02T23:33:07+00:00"
+    },
+    {
+      "id": "news-e42f73c015737c8e",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "高校学术讲坛，如何“叫好又叫座”",
+      "body": "论坛汇智，文化润心。在高校校园里，学术讲座与论坛不仅是知识交流的…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
+      "publishedAt": "2026-11-02T22:41:12+00:00"
+    },
     {
       "id": "news-b9bd48c88a64aaff",
       "type": "news",
@@ -285,6 +311,19 @@
       "publishedAt": "2026-11-02T02:45:41+00:00"
     },
     {
+      "id": "news-950d2e2776fb7a39",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "孩子猛长期到底能不能减重？教你“吃动睡测”四步走",
+      "body": "最近有一种育儿说法在网络广为传播：说的是“孩子处…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-02/10724541.shtml",
+      "publishedAt": "2026-11-02T00:03:54+00:00"
+    },
+    {
       "id": "news-f75e2fc42f6c1487",
       "type": "news",
       "category": "新闻 · 教育",
@@ -491,32 +530,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724178.shtml",
       "publishedAt": "2026-11-01T01:52:17+00:00"
-    },
-    {
-      "id": "news-33fab04ba57a53e0",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "超400家单位参展 今年中国国际教育展规模创五年来新高",
-      "body": "作为第27届中国国际教育交流年会的重要活动…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724172.shtml",
-      "publishedAt": "2026-11-01T01:39:43+00:00"
-    },
-    {
-      "id": "news-b82c3d43f476eed4",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "以为在养生，其实在养结节！蒲公英泡水、忍着不叹气……你中了几条？",
-      "body": "你以为在养生，其实在养结节！蒲公…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-01/10724171.shtml",
-      "publishedAt": "2026-11-01T01:36:02+00:00"
     }
   ]
 }
