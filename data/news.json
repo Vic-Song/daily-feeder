@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T23:24:57.852326+00:00",
+  "generatedAt": "2026-11-04T06:26:39.561732+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,136 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-176078631153495f",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第三届全国优秀音乐剧展演将在深圳举行 15部作品风格各异",
+      "body": "记者从文化和旅游部4日在京举行的发布会获…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-04/10725927.shtml",
+      "publishedAt": "2026-11-04T05:52:46+00:00"
+    },
+    {
+      "id": "news-61633785f7a23cf4",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "收录583张图片 《电视剧纪念画册》出版",
+      "body": "记者从主办方获悉，近日，《电视剧lt;三国演义gt;纪念…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-04/10725914.shtml",
+      "publishedAt": "2026-11-04T05:33:51+00:00"
+    },
+    {
+      "id": "news-a908e57c285521fb",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026“致敬经典·修复电影论坛”举办",
+      "body": "记者从主办方获悉，近日，2026“致敬经典·修复电影论坛”…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-04/10725915.shtml",
+      "publishedAt": "2026-11-04T05:33:21+00:00"
+    },
+    {
+      "id": "news-5c74367284b2bec0",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "专家点评《高贵的匍匐：“龙芯之母”黄令仪》：传记文学力作",
+      "body": "近日，长篇报告文学《高贵的匍匐：“龙芯之…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-04/10725916.shtml",
+      "publishedAt": "2026-11-04T05:33:01+00:00"
+    },
+    {
+      "id": "news-4e80ff0773ef9cc3",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“棉服”里没有棉？面料填充均为100%聚酯纤维 消费者如何辨别",
+      "body": "随着北方天气转凉，保暖服饰进入销售…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725911.shtml",
+      "publishedAt": "2026-11-04T05:14:26+00:00"
+    },
+    {
+      "id": "news-94b29e4ba529db4d",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "四川男篮74比82不敌福建男篮",
+      "body": "2026-2027赛季CBA常规赛11月3日晚继续上演精彩比拼，四…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-04/10725804.shtml",
+      "publishedAt": "2026-11-04T02:24:06+00:00"
+    },
+    {
+      "id": "news-cbbf17bc5a3919a4",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "WTT法兰克福冠军赛：王楚钦复出迎来“开门红”",
+      "body": "当地时间11月3日，2026年世界乒乓球职业大联盟…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-04/10725779.shtml",
+      "publishedAt": "2026-11-04T01:54:03+00:00"
+    },
+    {
+      "id": "news-2b2076ffee3943a8",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "可一键标记！“床虱地图”小程序走红",
+      "body": "近日，一款名为“床虱地图”的小程序在社交平台迅速走红，用户可以…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725773.shtml",
+      "publishedAt": "2026-11-04T01:44:40+00:00"
+    },
+    {
+      "id": "news-0e9c21eab3ffa8ee",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "这种水果，竟和85种药物“相冲”！很多人不知道",
+      "body": "秋天是柑橘类水果大量上市的季节",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725727.shtml",
+      "publishedAt": "2026-11-04T00:09:03+00:00"
+    },
+    {
+      "id": "news-2315088b0f6b3134",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "挡风被还能用吗？冬季电动车骑行如何兼顾保暖与安全",
+      "body": "天气越来越冷，挡风被成了不少骑电动自行车出行朋友…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725725.shtml",
+      "publishedAt": "2026-11-04T00:00:01+00:00"
+    },
     {
       "id": "news-efb35f9f650e9bc2",
       "type": "news",
@@ -129,19 +259,6 @@
       "publishedAt": "2026-11-03T13:19:13+00:00"
     },
     {
-      "id": "news-3f29986bc8cd24ad",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026金鸡未来影像在沪开幕",
-      "body": "作为2026年中国金鸡百花电影节新的亮点之一，2026金鸡未来影像3…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725600.shtml",
-      "publishedAt": "2026-11-03T13:15:53+00:00"
-    },
-    {
       "id": "news-38204b9c23208714",
       "type": "news",
       "category": "新闻 · 教育",
@@ -153,45 +270,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-03/10725586.shtml",
       "publishedAt": "2026-11-03T13:13:19+00:00"
-    },
-    {
-      "id": "news-b7da5e3483916567",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“我被东北话腌入味了！”最近的国产剧，被东北包圆了",
-      "body": "点开这个网页的小伙伴，咱们先来做一套东北话听力…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725590.shtml",
-      "publishedAt": "2026-11-03T13:02:21+00:00"
-    },
-    {
-      "id": "news-61a4a2b3f3f7ae60",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "海南岛国际电影节AI电影展影片征集：以“电影级”为标尺",
-      "body": "第八届海南岛国际电影节将于2026年12月…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725569.shtml",
-      "publishedAt": "2026-11-03T12:49:08+00:00"
-    },
-    {
-      "id": "news-fa3deef103e22e84",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "山西“晋问AI”上线 海内外华人可追溯姓氏源流与迁徙路径",
-      "body": "“问我祖先在何处，山西洪洞大槐树。”这句…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-03/10725532.shtml",
-      "publishedAt": "2026-11-03T12:42:45+00:00"
     },
     {
       "id": "news-5b189fefa8bd19a1",
@@ -350,32 +428,6 @@
       "publishedAt": "2026-11-03T04:12:08+00:00"
     },
     {
-      "id": "news-667999d83fcc09b0",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "陕西：击剑冠军走进校园 小剑手近距离感受击剑魅力",
-      "body": "陕西2026长安剑客国际击剑精英赛配套活动“剑耀…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-03/10725186.shtml",
-      "publishedAt": "2026-11-03T02:26:28+00:00"
-    },
-    {
-      "id": "news-ae6ab8501d4ecfd8",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "WTA250香港公开赛：王欣瑜女单首轮晋级",
-      "body": "WTA(女子网球协会)250香港公开赛2日在香港维多利…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-03/10725157.shtml",
-      "publishedAt": "2026-11-03T02:14:07+00:00"
-    },
-    {
       "id": "news-04af220417d19baa",
       "type": "news",
       "category": "新闻 · 生活",
@@ -454,19 +506,6 @@
       "publishedAt": "2026-11-01T23:28:54+00:00"
     },
     {
-      "id": "news-3358d416ee0e89fc",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
-      "body": "如果把地球冷冻一下，温室效应会得到缓解吗？汽油…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
-      "publishedAt": "2026-11-01T22:42:47+00:00"
-    },
-    {
       "id": "news-830411d72fcd0c5e",
       "type": "news",
       "category": "新闻 · 教育",
@@ -480,19 +519,6 @@
       "publishedAt": "2026-11-01T12:06:28+00:00"
     },
     {
-      "id": "news-167f2dc6288fbf2a",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "秋冬流感季来临 这份防护攻略请收好",
-      "body": "央视网消息：天气渐冷，正是流感高发季节。今年流行的流感毒株有什…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-01/10724460.shtml",
-      "publishedAt": "2026-11-01T11:59:52+00:00"
-    },
-    {
       "id": "news-4fec85d0935111c2",
       "type": "news",
       "category": "新闻 · 教育",
@@ -504,32 +530,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-01/10724458.shtml",
       "publishedAt": "2026-11-01T11:57:42+00:00"
-    },
-    {
-      "id": "news-0935ee10dd22cd1c",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "喝功能饮料提神抗疲劳，有“副作用”吗？",
-      "body": "这种看似健康的饮料，可能损害血管还让你发胖",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-01/10724409.shtml",
-      "publishedAt": "2026-11-01T10:29:03+00:00"
-    },
-    {
-      "id": "news-b36edacd165214a2",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "秋冬锻炼要注意！这些不起眼的动作，悄悄伤膝、伤腰、伤脚踝",
-      "body": "秋冬锻炼别瞎练！这些不起眼的动作，悄悄伤…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-01/10724319.shtml",
-      "publishedAt": "2026-11-01T08:05:23+00:00"
     }
   ]
 }
