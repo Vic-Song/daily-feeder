@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T19:58:28.860592+00:00",
+  "generatedAt": "2026-11-06T06:51:26.591721+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,175 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-b155ede501f76061",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "北京短池游泳世锦赛12月开赛 多位奥运冠军领衔",
+      "body": "2026年北京世界短池游泳锦标赛将于12月1日至6…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727219.shtml",
+      "publishedAt": "2026-11-06T06:31:41+00:00"
+    },
+    {
+      "id": "news-8273d3579a27a50f",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "付费“导师红黑榜”走红 择校焦虑不该被流量收割",
+      "body": "纵深话题",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-06/10727180.shtml",
+      "publishedAt": "2026-11-06T05:14:11+00:00"
+    },
+    {
+      "id": "news-a9e983bc4881ad9b",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "WTA250香港公开赛：王欣瑜不敌鲁季奇 无缘八强",
+      "body": "WTA(女子网球选手协会)250香港公开赛女单…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727155.shtml",
+      "publishedAt": "2026-11-06T03:32:10+00:00"
+    },
+    {
+      "id": "news-df6e715b652acdc9",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "买了没几年的羽绒服，怎么就不保暖了？原来很多人做错了这2点！",
+      "body": "天气渐渐转凉，很多人从衣柜最深处掏出…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-06/10727152.shtml",
+      "publishedAt": "2026-11-06T03:29:50+00:00"
+    },
+    {
+      "id": "news-401553eb75a3042c",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《中国婺林大会》将开播",
+      "body": "戏聚金华、婺韵登场！《中国婺林大会》将于11月6日起，每周五19:30档，…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/8827751.shtml",
+      "publishedAt": "2026-11-06T02:57:39+00:00"
+    },
+    {
+      "id": "news-9ce6111271511e55",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“智慧教室”会侵犯学生隐私？全国教育辟谣平台发文谈误读套路",
+      "body": "近日，南京大学启用智慧教室系统事件引发…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-06/10727073.shtml",
+      "publishedAt": "2026-11-06T02:25:52+00:00"
+    },
+    {
+      "id": "news-08ca3f588f64dafc",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "立冬后，建议多吃这些食物，好处不只一个！",
+      "body": "“北风潜入悄无声，未品浓秋已立冬。”作为“四时八节”的重…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-06/10727055.shtml",
+      "publishedAt": "2026-11-06T01:58:45+00:00"
+    },
+    {
+      "id": "news-109a58f6bfb71c6f",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "何以中国｜红山曙光映照朝阳烟火日常",
+      "body": "11月2日，由中央网信办网络传播局指导、辽宁省委网信办主办的“…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727054.shtml",
+      "publishedAt": "2026-11-06T01:58:31+00:00"
+    },
+    {
+      "id": "news-7cda264f99746a11",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
+      "body": "2026CFA中国之队·银川五人制足球国际邀…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727042.shtml",
+      "publishedAt": "2026-11-06T01:43:16+00:00"
+    },
+    {
+      "id": "news-69d3760eca3af923",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "WTT法兰克福冠军赛：王楚钦无缘男单八强",
+      "body": "当地时间11月5日，2026年世界乒乓球职业大联盟(WT…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727032.shtml",
+      "publishedAt": "2026-11-06T01:18:56+00:00"
+    },
+    {
+      "id": "news-faf6bbce9cb27369",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "23年传奇谢幕！C罗官宣退出国家队，但千球纪录还在等他",
+      "body": "23年传奇谢幕！C罗官宣退出国家队，但千球…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727029.shtml",
+      "publishedAt": "2026-11-06T01:09:10+00:00"
+    },
+    {
+      "id": "news-436dd32743a59b1a",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "微短剧热潮中大学生如何“入戏”与“出戏”",
+      "body": "中青报·中青网记者 王军利 毕若旭 卞心怡",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-06/10727002.shtml",
+      "publishedAt": "2026-11-05T23:59:54+00:00"
+    },
+    {
+      "id": "news-407cdaf46f15237e",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "别再乱吃！这些食物是结节“助推器” 这几类人一定要忌口",
+      "body": "这些食物结节的“催化剂”",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-06/10726989.shtml",
+      "publishedAt": "2026-11-05T23:25:14+00:00"
+    },
     {
       "id": "news-c5d7d013d40250bd",
       "type": "news",
@@ -90,19 +259,6 @@
       "publishedAt": "2026-11-05T15:07:51+00:00"
     },
     {
-      "id": "news-530380b23fd35060",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "全国262名青少年运动员在京竞技短道速滑",
-      "body": "5日，2026-2027赛季全国滑冰U系列中学校际联赛(…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726936.shtml",
-      "publishedAt": "2026-11-05T15:00:00+00:00"
-    },
-    {
       "id": "news-e4f1842010225e09",
       "type": "news",
       "category": "新闻 · 文化",
@@ -114,32 +270,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-05/10726928.shtml",
       "publishedAt": "2026-11-05T14:45:02+00:00"
-    },
-    {
-      "id": "news-7d7aa7ad7ccd96df",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "保持多项纪录！C罗宣布结束葡萄牙国家队生涯",
-      "body": "北京时间11月5日，41岁的C罗通过社媒宣布从葡萄牙国…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726907.shtml",
-      "publishedAt": "2026-11-05T13:57:21+00:00"
-    },
-    {
-      "id": "news-ab49efe47a00f0ff",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "C罗宣布退出葡萄牙国家队 结束23年国家队生涯",
-      "body": "里斯本消息：葡萄牙球星克里斯蒂亚诺·罗纳尔多(C罗…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726875.shtml",
-      "publishedAt": "2026-11-05T13:41:18+00:00"
     },
     {
       "id": "news-e39dd2f4cabcef4e",
@@ -233,19 +363,6 @@
       "publishedAt": "2026-11-05T11:22:58+00:00"
     },
     {
-      "id": "news-525b55b08f1798d6",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "C罗宣布从葡萄牙国家足球队退役",
-      "body": "当地时间11月5日，葡萄牙球星克里斯蒂亚诺·罗纳尔多通过社交媒体宣…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726781.shtml",
-      "publishedAt": "2026-11-05T10:43:08+00:00"
-    },
-    {
       "id": "news-f75ba6b0c185c574",
       "type": "news",
       "category": "新闻 · 文化",
@@ -272,32 +389,6 @@
       "publishedAt": "2026-11-05T10:23:45+00:00"
     },
     {
-      "id": "news-8da2e035f43740a1",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "演绎百年前嵊州少女“追光”故事 越剧《女班》登台国家大剧院",
-      "body": "为纪念越剧诞生120周年，由浙江嵊州市…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-05/10726748.shtml",
-      "publishedAt": "2026-11-05T10:07:22+00:00"
-    },
-    {
-      "id": "news-cf9eb6d80838adf7",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "一场声乐比赛，听见内蒙古歌者的多元表达",
-      "body": "一首蒙古族长调，歌者以婉转悠长的曲调，尽显民族声乐的独特韵…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-05/10726739.shtml",
-      "publishedAt": "2026-11-05T10:03:22+00:00"
-    },
-    {
       "id": "news-f72036437133d88a",
       "type": "news",
       "category": "新闻 · 教育",
@@ -309,19 +400,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-05/10726724.shtml",
       "publishedAt": "2026-11-05T08:58:31+00:00"
-    },
-    {
-      "id": "news-9a50a081a6177f93",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "长春大冬会雪场分区管控 兼顾赛事运行与大众滑雪",
-      "body": "记者5日从吉林省政府新闻办举行的新闻发布会获悉，长…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726646.shtml",
-      "publishedAt": "2026-11-05T07:51:09+00:00"
     },
     {
       "id": "news-7997f80303c0dd8b",
@@ -402,45 +480,6 @@
       "publishedAt": "2026-11-04T14:03:40+00:00"
     },
     {
-      "id": "news-be934b9ab16cd673",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "立时代现场育强国少年 《天地大课堂》收官",
-      "body": "中央广播电视总台体育青少节目中心全媒体教育品牌项目《名师…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-04/10726208.shtml",
-      "publishedAt": "2026-11-04T12:18:57+00:00"
-    },
-    {
-      "id": "news-48dc8d4aa3108f9e",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "大洋板块俯冲如何转为大陆板块碰撞？我国科学家揭秘",
-      "body": "大洋板块俯冲，慢慢变成大陆板块碰撞，地下深处会发…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-04/10726128.shtml",
-      "publishedAt": "2026-11-04T10:09:32+00:00"
-    },
-    {
-      "id": "news-0eac5b93abcca532",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“报名失败”“名额紧张”？高考报名季警惕这些骗局",
-      "body": "记者从全国教育辟谣平台获悉，2027年普通高校招…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-04/10726110.shtml",
-      "publishedAt": "2026-11-04T09:44:06+00:00"
-    },
-    {
       "id": "news-4e80ff0773ef9cc3",
       "type": "news",
       "category": "新闻 · 生活",
@@ -493,19 +532,6 @@
       "publishedAt": "2026-11-04T00:00:01+00:00"
     },
     {
-      "id": "news-5aabb9c14b5e518c",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "落实“双碳”目标，交通行业在行动",
-      "body": "近年来，交通运输部、国家能源局等部门相继推动交通基础设施与新能源…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-03/8831779.shtml",
-      "publishedAt": "2026-11-03T12:17:08+00:00"
-    },
-    {
       "id": "news-276c193478a03296",
       "type": "news",
       "category": "新闻 · 生活",
@@ -517,32 +543,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-03/10725344.shtml",
       "publishedAt": "2026-11-03T07:24:24+00:00"
-    },
-    {
-      "id": "news-747dd943aada1875",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "易消化、抗氧化效果更好 水果热着吃要注意这些细节",
-      "body": "天气越来越冷",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-03/10725296.shtml",
-      "publishedAt": "2026-11-03T06:06:14+00:00"
-    },
-    {
-      "id": "news-62735e2a4aacfa8a",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "靠维生素“续命”？长期猛补更伤身！",
-      "body": "维生素常被译为“维他命”，取“维持生命”之意，足见其对人体健康…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-03/10725280.shtml",
-      "publishedAt": "2026-11-03T05:44:35+00:00"
     }
   ]
 }
