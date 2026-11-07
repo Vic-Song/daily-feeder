@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T19:26:02.435634+00:00",
+  "generatedAt": "2026-11-07T06:00:27.354510+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,71 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-ddaa1bde129bed1c",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "千余名少年剑客扬州亮剑 2026大运河杯青少年击剑大奖赛开赛",
+      "body": "11月7日，2026大运河杯青少年击…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727849.shtml",
+      "publishedAt": "2026-11-07T05:49:30+00:00"
+    },
+    {
+      "id": "news-be0e4d652d9b39b8",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "长辈“入坑”，年轻人“真香”，大陆AI短剧成了台湾观众的“电子下饭菜”？",
+      "body": "“谁家大人会追AI短剧追…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-07/10727839.shtml",
+      "publishedAt": "2026-11-07T04:48:13+00:00"
+    },
+    {
+      "id": "news-74a4ef2aa1e41f95",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国杯世界花样滑冰大奖赛在深圳开赛 “冰上芭蕾”再掀鹏城冰雪热潮",
+      "body": "2026中国杯世界花样滑冰大奖赛…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727829.shtml",
+      "publishedAt": "2026-11-07T04:01:16+00:00"
+    },
+    {
+      "id": "news-c5cfd7be036c9e58",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "广东青少年阳江竞逐海岸赛艇沙滩冲刺赛",
+      "body": "记者7日从广东省社训中心获悉，“奔跑吧·少年”中国体育彩票2…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727820.shtml",
+      "publishedAt": "2026-11-07T03:53:16+00:00"
+    },
+    {
+      "id": "news-ffccfc718b5df3d4",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "WTT法兰克福冠军赛：陈幸同等三位中国女将晋级八强",
+      "body": "当地时间11月6日，2026年世界乒乓球职业大…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727793.shtml",
+      "publishedAt": "2026-11-07T03:11:51+00:00"
+    },
     {
       "id": "news-e2ca58a2b1cb6762",
       "type": "news",
@@ -153,19 +218,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727631.shtml",
       "publishedAt": "2026-11-06T14:34:02+00:00"
-    },
-    {
-      "id": "news-e8dee59cd7b4d5df",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "新书《郁达夫的朋友圈》在京首发",
-      "body": "今年是郁达夫诞辰130周年。11月5日，报刊史研究学者、作家、红色…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727601.shtml",
-      "publishedAt": "2026-11-06T13:44:15+00:00"
     },
     {
       "id": "news-a1b45cadb351b0fa",
@@ -311,32 +363,6 @@
       "publishedAt": "2026-11-06T01:43:16+00:00"
     },
     {
-      "id": "news-69d3760eca3af923",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "WTT法兰克福冠军赛：王楚钦无缘男单八强",
-      "body": "当地时间11月5日，2026年世界乒乓球职业大联盟(WT…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727032.shtml",
-      "publishedAt": "2026-11-06T01:18:56+00:00"
-    },
-    {
-      "id": "news-faf6bbce9cb27369",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "23年传奇谢幕！C罗官宣退出国家队，但千球纪录还在等他",
-      "body": "23年传奇谢幕！C罗官宣退出国家队，但千球…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-06/10727029.shtml",
-      "publishedAt": "2026-11-06T01:09:10+00:00"
-    },
-    {
       "id": "news-436dd32743a59b1a",
       "type": "news",
       "category": "新闻 · 教育",
@@ -361,32 +387,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-06/10726989.shtml",
       "publishedAt": "2026-11-05T23:25:14+00:00"
-    },
-    {
-      "id": "news-c5d7d013d40250bd",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
-      "body": "2026CFA中国之队·银川五人制足球国际邀…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726973.shtml",
-      "publishedAt": "2026-11-05T15:48:29+00:00"
-    },
-    {
-      "id": "news-309a5b4bf9a00421",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年中国国际拳击公开赛在贵州遵义开幕",
-      "body": "2026年中国国际拳击公开赛5日晚在贵州省遵义市开幕。…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-05/10726961.shtml",
-      "publishedAt": "2026-11-05T15:34:02+00:00"
     },
     {
       "id": "news-f1495461d0610808",
@@ -478,58 +478,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-05/10726370.shtml",
       "publishedAt": "2026-11-05T00:01:34+00:00"
-    },
-    {
-      "id": "news-4e80ff0773ef9cc3",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“棉服”里没有棉？面料填充均为100%聚酯纤维 消费者如何辨别",
-      "body": "随着北方天气转凉，保暖服饰进入销售…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725911.shtml",
-      "publishedAt": "2026-11-04T05:14:26+00:00"
-    },
-    {
-      "id": "news-2b2076ffee3943a8",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "可一键标记！“床虱地图”小程序走红",
-      "body": "近日，一款名为“床虱地图”的小程序在社交平台迅速走红，用户可以…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725773.shtml",
-      "publishedAt": "2026-11-04T01:44:40+00:00"
-    },
-    {
-      "id": "news-0e9c21eab3ffa8ee",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "这种水果，竟和85种药物“相冲”！很多人不知道",
-      "body": "秋天是柑橘类水果大量上市的季节",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725727.shtml",
-      "publishedAt": "2026-11-04T00:09:03+00:00"
-    },
-    {
-      "id": "news-2315088b0f6b3134",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "挡风被还能用吗？冬季电动车骑行如何兼顾保暖与安全",
-      "body": "天气越来越冷，挡风被成了不少骑电动自行车出行朋友…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-04/10725725.shtml",
-      "publishedAt": "2026-11-04T00:00:01+00:00"
     }
   ]
 }
