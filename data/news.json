@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T13:05:30.567283+00:00",
+  "generatedAt": "2026-11-07T21:52:48.153462+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,97 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-7e336bda8d041e9c",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "青春影展搭台 两岸影视从业者厦门畅叙光影",
+      "body": "以“执影逐梦 同心同行”为主题的第四届海峡两岸青春影展颁…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-07/10728174.shtml",
+      "publishedAt": "2026-11-07T15:03:10+00:00"
+    },
+    {
+      "id": "news-e5626dcee6c68e25",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
+      "body": "2026-2027赛季中国女子排球超级联赛7日在…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
+      "publishedAt": "2026-11-07T13:25:42+00:00"
+    },
+    {
+      "id": "news-23763043e411a58c",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
+      "body": "当人工智能让虚拟影像唾手可得，纪实影像的价值正…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
+      "publishedAt": "2026-11-07T13:25:34+00:00"
+    },
+    {
+      "id": "news-409dc636c8b12d7b",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026百队杯青少年篮球赛在北京落幕",
+      "body": "2026北京晚报百队杯青少年篮球赛11月7日在首都体育学院北…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10728144.shtml",
+      "publishedAt": "2026-11-07T13:23:34+00:00"
+    },
+    {
+      "id": "news-82ee9718845aa9dd",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "从食物里读懂中国 陈晓卿推出新书《我的美食向导》",
+      "body": "从一部纪录片火遍大江南北，到尽尝烟火再度出发，美…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-07/10728111.shtml",
+      "publishedAt": "2026-11-07T13:22:32+00:00"
+    },
+    {
+      "id": "news-b78abafdb0503121",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "首届云台“醉雕杯”海峡两岸慢投垒球交流赛昆明开赛",
+      "body": "首届云台“醉雕杯”海峡两岸慢投垒球交流赛7日在云…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10728149.shtml",
+      "publishedAt": "2026-11-07T13:17:26+00:00"
+    },
+    {
+      "id": "news-5532ac755a13d055",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "赛事流量留在山水间 武汉黄陂解锁文体旅融合新范式",
+      "body": "2026年全国群众登山健身大会(木兰山站)暨中国…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10728156.shtml",
+      "publishedAt": "2026-11-07T13:12:28+00:00"
+    },
     {
       "id": "news-c3a213ff75e2714c",
       "type": "news",
@@ -116,32 +207,6 @@
       "publishedAt": "2026-11-07T08:37:05+00:00"
     },
     {
-      "id": "news-1183b23a1fd8ce48",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "广东省逾500名青少年齐聚惠州“以球会友”",
-      "body": "记者7日从赛事组委会获悉，“奔跑吧·少年”中国体育彩票…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727949.shtml",
-      "publishedAt": "2026-11-07T08:35:23+00:00"
-    },
-    {
-      "id": "news-2d6e05eecb70781f",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026北京冰雪消费季推介会举行 推出17条冰雪旅游线路",
-      "body": "“冰雪聚燃冬 京彩中国年”2026北京冰…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727948.shtml",
-      "publishedAt": "2026-11-07T08:32:33+00:00"
-    },
-    {
       "id": "news-e1c81e2579e57c7a",
       "type": "news",
       "category": "新闻 · 文化",
@@ -153,32 +218,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-07/10727884.shtml",
       "publishedAt": "2026-11-07T06:57:26+00:00"
-    },
-    {
-      "id": "news-bc6783e7d5b385ee",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "首届“奔跑贵州世界遗产”超级越野跑联赛（梵净山站）开跑",
-      "body": "首届“奔跑贵州世界遗产”超级越野跑联赛(梵…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727880.shtml",
-      "publishedAt": "2026-11-07T06:34:24+00:00"
-    },
-    {
-      "id": "news-e70c747d89b90f6b",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国男足公布新一期集训名单 呈新老结合格局",
-      "body": "中国足球协会7日公布了关于组织国家男子足球队2026年…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-07/10727876.shtml",
-      "publishedAt": "2026-11-07T06:21:02+00:00"
     },
     {
       "id": "news-be0e4d652d9b39b8",
@@ -244,45 +283,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727691.shtml",
       "publishedAt": "2026-11-06T15:32:19+00:00"
-    },
-    {
-      "id": "news-bc4272f73c744abd",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "哈尔滨冰雪文化艺术季启幕 2270场演出奏响中外文艺交流乐章",
-      "body": "“冰雪为媒艺汇冰城”2026—202…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727681.shtml",
-      "publishedAt": "2026-11-06T15:25:13+00:00"
-    },
-    {
-      "id": "news-3a6819e1958a4bc0",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "重归冬牧场：一部田野笔记的二十年回响",
-      "body": "从2006年初只身前往新疆昭苏县阿克牙孜沟冬牧场进行田野调查…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727665.shtml",
-      "publishedAt": "2026-11-06T15:18:28+00:00"
-    },
-    {
-      "id": "news-6da856fa11fde1de",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年中国金鸡百花电影节在厦门开幕",
-      "body": "2026年中国金鸡百花电影节6日晚在厦门闽南大戏院开幕。",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-06/10727662.shtml",
-      "publishedAt": "2026-11-06T15:16:52+00:00"
     },
     {
       "id": "news-5359f91916d3f9b6",
