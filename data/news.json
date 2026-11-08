@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T13:27:40.727366+00:00",
+  "generatedAt": "2026-11-08T22:08:23.671564+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,71 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-6cc8eebfb3b56cc1",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "body": "题：2026中超盘点：竞争格局下的奇迹上演与神话…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
+      "publishedAt": "2026-11-08T15:30:40+00:00"
+    },
+    {
+      "id": "news-07dd98d86e79d334",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
+      "body": "10月27日至11月8日，2026年世界举重锦标赛(下…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
+      "publishedAt": "2026-11-08T15:16:05+00:00"
+    },
+    {
+      "id": "news-6761f79a3262d859",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+      "body": "题：风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
+      "publishedAt": "2026-11-08T14:09:45+00:00"
+    },
+    {
+      "id": "news-c43c8504ce9741e0",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
+      "body": "2026赛季中超联赛末轮比赛8日全部战罢。成都…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
+      "publishedAt": "2026-11-08T14:08:53+00:00"
+    },
+    {
+      "id": "news-d2b125efa4c15540",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "民众齐唱《小白杨》送别词作家梁上泉",
+      "body": "“一棵呀小白杨，长在哨所旁，根儿深，干儿壮，守望着北疆……”",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
+      "publishedAt": "2026-11-08T13:43:46+00:00"
+    },
     {
       "id": "news-3846f78ed2f255df",
       "type": "news",
@@ -155,19 +220,6 @@
       "publishedAt": "2026-11-08T10:19:31+00:00"
     },
     {
-      "id": "news-b5b5f4b4fb67a76c",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "1.3万名跑者打卡“吉象”赛道 感受无锡“东大门”生态之美",
-      "body": "2026雅迪锡山宛山湖马拉松8日鸣枪起…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728453.shtml",
-      "publishedAt": "2026-11-08T10:16:45+00:00"
-    },
-    {
       "id": "news-0ae7cd24d1665b3c",
       "type": "news",
       "category": "新闻 · 文化",
@@ -179,45 +231,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-08/10728429.shtml",
       "publishedAt": "2026-11-08T10:08:04+00:00"
-    },
-    {
-      "id": "news-b50b2de20550bab1",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "大连英博队获中超冠军 成都蓉城队四连败丢冠",
-      "body": "2026赛季中超联赛8日收官。末轮事关冠军归属的两场焦…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728423.shtml",
-      "publishedAt": "2026-11-08T09:49:17+00:00"
-    },
-    {
-      "id": "news-fb03cdfe1a1b063f",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "法兰克福无四强，国乒莫让“学费”白交",
-      "body": "北京时间11月8日凌晨，随着中国选手陈熠在女单1/4决赛中不…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728416.shtml",
-      "publishedAt": "2026-11-08T09:10:29+00:00"
-    },
-    {
-      "id": "news-513ba3caaa6e9b6b",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "福建省第十八届运动会青少年部·行业部羽毛球项目在大田开赛 24支代表队293名运动员同台竞技",
-      "body": "来自体育栏目的一条消息，点击原文查看具体内容。",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-08/10728384.shtml",
-      "publishedAt": "2026-11-08T08:28:31+00:00"
     },
     {
       "id": "news-a54b9c8b53dce8fa",
@@ -309,19 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-08/10728286.shtml",
       "publishedAt": "2026-11-08T03:16:18+00:00"
-    },
-    {
-      "id": "news-b8c31bb96b7d0aa2",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "国家图书馆举办“纪念八大山人诞辰400周年”国图公开课特别活动",
-      "body": "2026年是书画名家八大山人诞辰4…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-08/10728249.shtml",
-      "publishedAt": "2026-11-08T02:24:21+00:00"
     },
     {
       "id": "news-184197287139db1d",
