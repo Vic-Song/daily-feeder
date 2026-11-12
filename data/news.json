@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T19:37:59.348609+00:00",
+  "generatedAt": "2026-11-12T07:14:26.633744+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,123 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-7b3d6980bdfcd547",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "冰雪季开启 收好这份户外滑雪安全指南",
+      "body": "立冬之后，全国的冰雪旅游和户外冰雪运动逐步升温，如何在滑雪的…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730766.shtml",
+      "publishedAt": "2026-11-12T06:08:29+00:00"
+    },
+    {
+      "id": "news-cf99b81660337bc5",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "斯诺克冠中冠赛：中国球手吴宜泽、常冰玉出局",
+      "body": "当地时间11月11日，2026年斯诺克冠中冠邀请赛在英…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-12/10730742.shtml",
+      "publishedAt": "2026-11-12T05:38:42+00:00"
+    },
+    {
+      "id": "news-b80bf637602a6fa2",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026年广东省女子篮球联赛四强出炉",
+      "body": "中国体育彩票·2026年广东省女子篮球联赛(简称“赛事”)1…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-12/10730722.shtml",
+      "publishedAt": "2026-11-12T03:54:08+00:00"
+    },
+    {
+      "id": "news-0e9b15e2e82d67d0",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "收紧管控边界 新修正《陕西省秦始皇陵保护条例》施行",
+      "body": "秦始皇陵是珍贵的世界文化遗产。日前，经陕西省人…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10730726.shtml",
+      "publishedAt": "2026-11-12T03:41:39+00:00"
+    },
+    {
+      "id": "news-dafa6d49bb59820b",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
+      "body": "11日晚，海口湾演艺中心大剧场座无虚席。美国费城交…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
+      "publishedAt": "2026-11-12T03:18:54+00:00"
+    },
+    {
+      "id": "news-5c30a747060119b8",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "电影《云水谣》二十周年系列主题活动在福建南靖云水谣启幕",
+      "body": "11月11日，电影《云水谣》二十周年系列主…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10730692.shtml",
+      "publishedAt": "2026-11-12T02:59:37+00:00"
+    },
+    {
+      "id": "news-d1fb75e7f95cea8c",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026年中国国际拳击公开赛在贵州遵义收官",
+      "body": "2026年中国国际拳击公开赛(以下简称，公开赛)11日…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-12/10730676.shtml",
+      "publishedAt": "2026-11-12T02:53:31+00:00"
+    },
+    {
+      "id": "news-53bd9ab046959271",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "最近高发！这种病毒发作时剧痛难忍",
+      "body": "带状疱疹又叫“缠腰龙”",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730633.shtml",
+      "publishedAt": "2026-11-12T01:55:51+00:00"
+    },
+    {
+      "id": "news-a3cb2254657a97a7",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
+      "body": "第22届中美电影节和中美电视节10日在…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10730571.shtml",
+      "publishedAt": "2026-11-11T22:04:23+00:00"
+    },
     {
       "id": "news-9be63e255fbba58e",
       "type": "news",
@@ -181,19 +298,6 @@
       "publishedAt": "2026-11-11T11:03:54+00:00"
     },
     {
-      "id": "news-9564615686dae6c2",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "以时代群像书写中国法治建设历程 电视剧《重器》研讨会举行",
-      "body": "由中国电视艺术委员会、北京市广电局主办的…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-11/10730325.shtml",
-      "publishedAt": "2026-11-11T09:39:56+00:00"
-    },
-    {
       "id": "news-992e30b029ed736d",
       "type": "news",
       "category": "新闻 · 体育",
@@ -207,32 +311,6 @@
       "publishedAt": "2026-11-11T09:37:18+00:00"
     },
     {
-      "id": "news-fd1e658a18a56fea",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "乡村文脉如何焕新？浙江湖州将人文“家底”融入发展日常",
-      "body": "深秋时节，在浙江省德清县洛舍镇东衡村，游客踏…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-11/10730310.shtml",
-      "publishedAt": "2026-11-11T09:33:42+00:00"
-    },
-    {
-      "id": "news-f8092c5312653033",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "上海市文史研究馆开展“海上名家新疆行”活动",
-      "body": "为拓展合作新空间，以文化艺术赋能新疆喀什发展，上海市文…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-11/10730228.shtml",
-      "publishedAt": "2026-11-11T08:03:45+00:00"
-    },
-    {
       "id": "news-e6012fa05ec6022a",
       "type": "news",
       "category": "新闻 · 生活",
@@ -244,19 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-11/10730201.shtml",
       "publishedAt": "2026-11-11T07:47:28+00:00"
-    },
-    {
-      "id": "news-5a95026bb69d27e3",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "西安美术学院雕塑系学科建设文献展系统梳理70余年发展",
-      "body": "西安美术学院雕塑系学科建设文献展日前在西安开…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-11/10730120.shtml",
-      "publishedAt": "2026-11-11T07:05:02+00:00"
     },
     {
       "id": "news-4a1471937ddf3af2",
@@ -296,45 +361,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-11/10730140.shtml",
       "publishedAt": "2026-11-11T06:45:32+00:00"
-    },
-    {
-      "id": "news-232447407db3ec3d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "斯诺克冠中冠赛：特鲁姆普首轮出局 尼尔·罗伯逊晋级四强",
-      "body": "当地时间11月10日，2026年斯诺克冠中…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-11/10730049.shtml",
-      "publishedAt": "2026-11-11T05:38:37+00:00"
-    },
-    {
-      "id": "news-3d33883f498e1000",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中超观众数刷新历史新高 中甲2028赛季将扩军至18队",
-      "body": "中国足球职业联赛2026赛季总结暨2027…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-11/10729986.shtml",
-      "publishedAt": "2026-11-11T03:02:24+00:00"
-    },
-    {
-      "id": "news-dce5f62bb6c93572",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年广东省女子篮球联赛八强出炉",
-      "body": "中国体育彩票·2026年广东省女子篮球联赛(以下简称“赛事”…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-11/10729955.shtml",
-      "publishedAt": "2026-11-11T02:49:24+00:00"
     },
     {
       "id": "news-8cc20ef7b5ea2c1b",
@@ -504,32 +530,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-09/10729066.shtml",
       "publishedAt": "2026-11-09T12:23:40+00:00"
-    },
-    {
-      "id": "news-29743e563a2c8400",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "开心果为何变贵了？",
-      "body": "开心果一直是颇受欢迎的坚果零食。近期，受主产地减产、供应收紧等因素影响，市场上…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-09/10729015.shtml",
-      "publishedAt": "2026-11-09T11:40:35+00:00"
-    },
-    {
-      "id": "news-65fd1abb1aa7c4a2",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“纯钛杯能排毒抗衰”是真的吗？专家解读",
-      "body": "纯钛杯能排毒抗衰，是真的吗",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-09/10728998.shtml",
-      "publishedAt": "2026-11-09T10:23:25+00:00"
     }
   ]
 }
