@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T19:56:51.910555+00:00",
+  "generatedAt": "2026-11-13T06:48:29.011158+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,149 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-969576236c6f29da",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "斯诺克冠中冠赛：赵心童无缘四强 中国球手三人皆止步",
+      "body": "当地时间11月12日，2026年斯诺克冠中冠邀…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-13/10731446.shtml",
+      "publishedAt": "2026-11-13T06:04:12+00:00"
+    },
+    {
+      "id": "news-03c6a633bde8f2d0",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第二届全国小戏小品展演长沙开幕 55部作品陆续登台",
+      "body": "11月12日晚，第二届全国小戏小品展演在长沙开…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-13/10731384.shtml",
+      "publishedAt": "2026-11-13T03:40:28+00:00"
+    },
+    {
+      "id": "news-104298f6712b4516",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "广西区运会的绿茵“双城对决” 检验青训成果",
+      "body": "广西第十六届运动会竞技比赛男子足球项目11月12日上演…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-13/10731372.shtml",
+      "publishedAt": "2026-11-13T03:36:36+00:00"
+    },
+    {
+      "id": "news-54bfd4c1297a5e99",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2027年全国硕士研究生招生考试报名人数为347万",
+      "body": "据教育部网站消息，2027年全国硕士研究生招生…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-13/10731392.shtml",
+      "publishedAt": "2026-11-13T03:33:37+00:00"
+    },
+    {
+      "id": "news-c421991e4bf6b5ed",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "人机之间探寻表演本真 中外名家齐聚上戏共探育人路径",
+      "body": "“AI可以抓取海量微表情，生成一些我本人演不出…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-13/10731359.shtml",
+      "publishedAt": "2026-11-13T03:18:17+00:00"
+    },
+    {
+      "id": "news-1a685c7ea96f74ac",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026年广东省女子篮球联赛：佛山队、东莞队会师决赛",
+      "body": "中国体育彩票·2026年广东省女子篮球联赛四…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-13/10731348.shtml",
+      "publishedAt": "2026-11-13T02:46:07+00:00"
+    },
+    {
+      "id": "news-01c0f57abb2ba743",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "柏林国家歌剧院大规模赴沪演出",
+      "body": "近日，德国柏林国家歌剧院携两项演出——理查·施特劳斯歌剧《玫瑰骑士》…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-13/10731316.shtml",
+      "publishedAt": "2026-11-13T02:04:03+00:00"
+    },
+    {
+      "id": "news-fd0f270c7c10e9ff",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "别再傻傻分不清：X光、CT、磁共振、B超 到底在照什么？",
+      "body": "拿到检查单",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-13/10731311.shtml",
+      "publishedAt": "2026-11-13T01:50:56+00:00"
+    },
+    {
+      "id": "news-0bb06dda45151b69",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "虚拟雪道衔接真雪场：吉林培育冰雪全产业链人才",
+      "body": "吉林市冰雪技师学院智慧冰雪实训中心里，一名冰雪导游方…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-13/10731283.shtml",
+      "publishedAt": "2026-11-13T01:39:55+00:00"
+    },
+    {
+      "id": "news-b97b573ae9edc5d2",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "AI让论文更好写，学术诚信如何“不掉链子”",
+      "body": "谈起这两年AI给编辑工作带来的变化，《科技通报》编辑吴…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-13/10731294.shtml",
+      "publishedAt": "2026-11-13T01:34:05+00:00"
+    },
+    {
+      "id": "news-4d73ef05323cf8e0",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "吃了这么多年的胡萝卜 第一步竟错了？",
+      "body": "你一般怎么吃胡萝卜呢？",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-13/10731288.shtml",
+      "publishedAt": "2026-11-13T01:21:54+00:00"
+    },
     {
       "id": "news-9006b2e0ff209010",
       "type": "news",
@@ -207,32 +350,6 @@
       "publishedAt": "2026-11-12T12:31:40+00:00"
     },
     {
-      "id": "news-a0db1b32143c8536",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "陕西文旅市场一线观察：“研学热”促进多元业态深度融合",
-      "body": "在陕西铜川照金的山谷里，冲锋号骤然响起，担任…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10731082.shtml",
-      "publishedAt": "2026-11-12T12:30:54+00:00"
-    },
-    {
-      "id": "news-d4e15f537c5c9a62",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "国际友人在北京以诗词“会友”",
-      "body": "诗词联诵《山河万里》《长歌行》、说唱版《将进酒》、吟唱《梅花》……1…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10731071.shtml",
-      "publishedAt": "2026-11-12T12:01:40+00:00"
-    },
-    {
       "id": "news-ff5e154d69e647c2",
       "type": "news",
       "category": "新闻 · 教育",
@@ -270,19 +387,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-12/10731023.shtml",
       "publishedAt": "2026-11-12T11:00:15+00:00"
-    },
-    {
-      "id": "news-ff123a91674e2127",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "欧阳黔森长篇新作《起来》从小人物视角写长征",
-      "body": "知名作家欧阳黔森长篇小说《起来》新书发布暨分享会日前在…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-12/10731007.shtml",
-      "publishedAt": "2026-11-12T10:51:08+00:00"
     },
     {
       "id": "news-c3d66c1399558f63",
@@ -350,45 +454,6 @@
       "publishedAt": "2026-11-12T06:08:29+00:00"
     },
     {
-      "id": "news-cf99b81660337bc5",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "斯诺克冠中冠赛：中国球手吴宜泽、常冰玉出局",
-      "body": "当地时间11月11日，2026年斯诺克冠中冠邀请赛在英…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-12/10730742.shtml",
-      "publishedAt": "2026-11-12T05:38:42+00:00"
-    },
-    {
-      "id": "news-b80bf637602a6fa2",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年广东省女子篮球联赛四强出炉",
-      "body": "中国体育彩票·2026年广东省女子篮球联赛(简称“赛事”)1…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-12/10730722.shtml",
-      "publishedAt": "2026-11-12T03:54:08+00:00"
-    },
-    {
-      "id": "news-d1fb75e7f95cea8c",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年中国国际拳击公开赛在贵州遵义收官",
-      "body": "2026年中国国际拳击公开赛(以下简称，公开赛)11日…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-12/10730676.shtml",
-      "publishedAt": "2026-11-12T02:53:31+00:00"
-    },
-    {
       "id": "news-53bd9ab046959271",
       "type": "news",
       "category": "新闻 · 生活",
@@ -400,19 +465,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730633.shtml",
       "publishedAt": "2026-11-12T01:55:51+00:00"
-    },
-    {
-      "id": "news-9be63e255fbba58e",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
-      "body": "2026CFA中国之队·熊猫杯成都国际青年足球锦标…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
-      "publishedAt": "2026-11-11T15:27:17+00:00"
     },
     {
       "id": "news-0cd13aa5eeb465a9",
@@ -478,58 +530,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-11/10730155.shtml",
       "publishedAt": "2026-11-11T06:55:19+00:00"
-    },
-    {
-      "id": "news-8cc20ef7b5ea2c1b",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "冬天洗澡 早上洗还是晚上洗？这些“坏习惯”赶紧改",
-      "body": "冬季到来，天气渐冷",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-11/10729888.shtml",
-      "publishedAt": "2026-11-10T23:40:05+00:00"
-    },
-    {
-      "id": "news-ea5b7accb3280dd2",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
-      "body": "“让绿色成为校园底色，让生态文明扎根孩子心…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-10/10729857.shtml",
-      "publishedAt": "2026-11-10T14:59:43+00:00"
-    },
-    {
-      "id": "news-1b57ecfec40de47f",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "@高校毕业生：提升就业能力 这三类补贴别错过",
-      "body": "提升就业能力有补贴！高校毕业生别错过这项政策",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-10/10729728.shtml",
-      "publishedAt": "2026-11-10T12:12:04+00:00"
-    },
-    {
-      "id": "news-0e63b256736a5b3d",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《中医药传统知识保护条例》公布 将建立数据库与保护名录",
-      "body": "《中医药传统知识保护条例》(以下简称《条例…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-10/10729609.shtml",
-      "publishedAt": "2026-11-10T09:59:37+00:00"
     }
   ]
 }
