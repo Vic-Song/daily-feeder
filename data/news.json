@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T18:05:45.184873+00:00",
+  "generatedAt": "2026-11-14T22:26:39.738310+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,19 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-69d25af85879738d",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "两球零封马来西亚 中国男足终结三连败",
+      "body": "2026CFA中国之队·肇庆国际足球邀请赛14日在广东肇庆举…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml",
+      "publishedAt": "2026-11-14T22:20:27+00:00"
+    },
     {
       "id": "news-3431ddb7fe7e92ef",
       "type": "news",
@@ -179,19 +192,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-14/10731965.shtml",
       "publishedAt": "2026-11-14T05:40:27+00:00"
-    },
-    {
-      "id": "news-297b17dedcc077d7",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "福建省第十八届运动会在三明开幕 首用林业碳票实现赛事碳中和",
-      "body": "11月13日晚，以“如画三明绿动省运”…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-14/10731961.shtml",
-      "publishedAt": "2026-11-14T05:31:22+00:00"
     },
     {
       "id": "news-18f22d3d2710bc28",
