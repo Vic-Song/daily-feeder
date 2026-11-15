@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T22:26:39.738310+00:00",
+  "generatedAt": "2026-11-15T06:36:02.858191+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,110 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-7bd25b4a285daf61",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《手捧繁星》亮相广州推介会：在低谷中寻光，于助人中成长",
+      "body": "广东优秀电影观影推介会《手捧繁星》专场近日…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-15/10732242.shtml",
+      "publishedAt": "2026-11-15T01:52:13+00:00"
+    },
+    {
+      "id": "news-c555d5602a1f0afd",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第三届成都天问华语科幻文学大赛八大奖项揭晓",
+      "body": "第三届成都天问华语科幻文学大赛(下称成都天问大赛)成果…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-15/10732238.shtml",
+      "publishedAt": "2026-11-15T01:49:31+00:00"
+    },
+    {
+      "id": "news-eefa1e058321888a",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第2届中国高校校友网球公开赛在郑州开赛",
+      "body": "11月14日，为期两天的第2届中国高校校友网球公开赛在河南…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
+      "publishedAt": "2026-11-15T01:46:41+00:00"
+    },
+    {
+      "id": "news-caf203f9573d8463",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "为什么有人每天睡得少却很精神？科学家发现“短睡基因”",
+      "body": "大多数人都清楚充足睡眠是至关重要的，经典观点…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-15/10732227.shtml",
+      "publishedAt": "2026-11-15T00:47:27+00:00"
+    },
+    {
+      "id": "news-beb22b33997148fc",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "今年中文水平考试考生人数首破百万人次",
+      "body": "11月13日至15日，2026世界中文大会在北京举行，来自1…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-15/10732224.shtml",
+      "publishedAt": "2026-11-15T00:40:17+00:00"
+    },
+    {
+      "id": "news-137cbb54338de7fb",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "当AI剧集走上领奖台，中国科幻作家如何思考未来？",
+      "body": "题：当AI剧集走上领奖台，中国科幻作家如何思考未…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-15/10732219.shtml",
+      "publishedAt": "2026-11-15T00:35:05+00:00"
+    },
+    {
+      "id": "news-f679bb3367ef4cf5",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "小学生凌晨梦游从7楼坠落，专家解读儿童梦游真相，这件事千万别做",
+      "body": "前段时间，一则男孩梦游坠楼的新闻，…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-15/10732218.shtml",
+      "publishedAt": "2026-11-15T00:21:42+00:00"
+    },
+    {
+      "id": "news-044df00231685e70",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "冬季进补误区：不是所有人都适合“大补” 一个办法简单自测",
+      "body": "进入冬季，很多人会选择进补调养身体，不过…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-15/10732217.shtml",
+      "publishedAt": "2026-11-15T00:19:22+00:00"
+    },
     {
       "id": "news-69d25af85879738d",
       "type": "news",
@@ -181,19 +285,6 @@
       "publishedAt": "2026-11-14T05:57:14+00:00"
     },
     {
-      "id": "news-11a07b2e67f6c3f7",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国冠军运动员捐赠藏品传递体育精神",
-      "body": "2026中国体育文化博览会、中国体育旅游博览会冠军捐赠仪式，1…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-14/10731965.shtml",
-      "publishedAt": "2026-11-14T05:40:27+00:00"
-    },
-    {
       "id": "news-18f22d3d2710bc28",
       "type": "news",
       "category": "新闻 · 文化",
@@ -231,45 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
       "publishedAt": "2026-11-13T22:28:57+00:00"
-    },
-    {
-      "id": "news-fbcc6000fed28f3c",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "多份艺术市场报告在沪发布 上海拓展文物艺术品跨境交易",
-      "body": "第十一届“上海对话”13日在上海东方枢纽国际…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-13/10731829.shtml",
-      "publishedAt": "2026-11-13T13:56:15+00:00"
-    },
-    {
-      "id": "news-e146f06315c8ae18",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "第二十一届江西省高校摄影艺术作品展在南昌开幕",
-      "body": "以光影记录时代，用镜头讲述赣鄱故事。13日，第二十一…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-13/10731837.shtml",
-      "publishedAt": "2026-11-13T13:55:29+00:00"
-    },
-    {
-      "id": "news-e22d8fd51e75d320",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国博物馆协会理事长：数智浪潮重塑行业 拥抱AI须把握“价值边界”",
-      "body": "当前，席卷全球的AI浪潮，正从…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-13/10731832.shtml",
-      "publishedAt": "2026-11-13T13:54:57+00:00"
     },
     {
       "id": "news-d8c73e5cc5b36161",
@@ -467,19 +519,6 @@
       "publishedAt": "2026-11-12T11:36:45+00:00"
     },
     {
-      "id": "news-d5ac5785caae36c0",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "花钱就能进央国企？一图拆解四类诈骗套路",
-      "body": "花钱打点、交钱保录、内部名额……声称能花钱进央国企的，基本…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-12/10731056.shtml",
-      "publishedAt": "2026-11-12T11:18:40+00:00"
-    },
-    {
       "id": "news-4cb532caec46f1ed",
       "type": "news",
       "category": "新闻 · 生活",
@@ -491,45 +530,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730860.shtml",
       "publishedAt": "2026-11-12T08:10:58+00:00"
-    },
-    {
-      "id": "news-f308bcb149c6902c",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "消费提示：3种常见景观果含有毒素，切勿采摘食用",
-      "body": "3种景观果含毒素不能吃",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730859.shtml",
-      "publishedAt": "2026-11-12T08:07:38+00:00"
-    },
-    {
-      "id": "news-7b3d6980bdfcd547",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "冰雪季开启 收好这份户外滑雪安全指南",
-      "body": "立冬之后，全国的冰雪旅游和户外冰雪运动逐步升温，如何在滑雪的…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730766.shtml",
-      "publishedAt": "2026-11-12T06:08:29+00:00"
-    },
-    {
-      "id": "news-53bd9ab046959271",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "最近高发！这种病毒发作时剧痛难忍",
-      "body": "带状疱疹又叫“缠腰龙”",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-12/10730633.shtml",
-      "publishedAt": "2026-11-12T01:55:51+00:00"
     }
   ]
 }
