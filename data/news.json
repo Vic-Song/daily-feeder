@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T07:57:06.494488+00:00",
+  "generatedAt": "2026-11-17T20:57:26.692955+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -12,56 +12,186 @@
   "failedTopics": [],
   "items": [
     {
-      "id": "news-2da1c2a6bd6f11a6",
+      "id": "news-0641f5811fc6b2c2",
       "type": "news",
       "category": "新闻 · 文化",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "作家伊人睽睽：珍惜笔下每一个故事 不会为了影视化写作",
-      "body": "“我在创作时很看重男女主的存在，《尚公主》里…",
+      "title": "聚焦林默“少年时代” 《妈祖之林默传》动画电影项目发布",
+      "body": "在17日于福建省宁德市霞浦县举行的“寰海纪…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733452.shtml",
-      "publishedAt": "2026-11-17T07:24:22+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733765.shtml",
+      "publishedAt": "2026-11-17T13:41:51+00:00"
     },
     {
-      "id": "news-a850c5d4b972be24",
+      "id": "news-6827deb9c17eece7",
       "type": "news",
       "category": "新闻 · 文化",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "藤萍：只要有足够的想象力，武侠的情怀就不会终止",
-      "body": "“感到万分荣幸。”不久前，第五届“武侠文学金剑奖”…",
+      "title": "两部海洋文化题材动画电影项目在福建霞浦启动",
+      "body": "17日，霞浦启航·赤目熊动画“寰海纪元”海洋文化IP发…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733453.shtml",
-      "publishedAt": "2026-11-17T07:23:44+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733766.shtml",
+      "publishedAt": "2026-11-17T13:40:25+00:00"
     },
     {
-      "id": "news-9886aa2bc14c5162",
+      "id": "news-38fe90a5c39f8679",
       "type": "news",
       "category": "新闻 · 文化",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "山西展出80余幅力群版画作品 再现与鲁迅往事",
-      "body": "“刻·痕——山西博物院藏力群作品展”17日在山西博物…",
+      "title": "“炉火总在燃烧：写作者应该如何成长？”文学活动在京举办",
+      "body": "由北京作家协会、北京十月文艺出版社主办的“…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733454.shtml",
-      "publishedAt": "2026-11-17T07:23:14+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733723.shtml",
+      "publishedAt": "2026-11-17T13:02:59+00:00"
     },
     {
-      "id": "news-1d39849135562296",
+      "id": "news-a72b050d842b9338",
       "type": "news",
       "category": "新闻 · 文化",
       "icon": "▤",
       "kicker": "A HEADLINE TO EXPLORE",
-      "title": "揭秘94版《三国演义》：选演员很严格 曾成立补拍组",
-      "body": "“滚滚长江东逝水，浪花淘尽英雄……”1994年…",
+      "title": "学者探讨中国特色传记学的建设路径",
+      "body": "中国艺术研究院传记研究中心日前在京举办“中国特色传记学自主知识体…",
       "note": "新闻标题与导语节选 · 完整语境请见原文。",
       "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733451.shtml",
-      "publishedAt": "2026-11-17T07:21:40+00:00"
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733724.shtml",
+      "publishedAt": "2026-11-17T13:02:19+00:00"
+    },
+    {
+      "id": "news-89c4ed005bba5ad7",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026世界剧院北京论坛暨台湖舞美国际论坛闭幕",
+      "body": "2026世界剧院北京论坛暨台湖舞美国际论坛日前在国…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733717.shtml",
+      "publishedAt": "2026-11-17T12:52:12+00:00"
+    },
+    {
+      "id": "news-2091c8d8e7239a66",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CBSA中国普尔9球巡回赛安徽合肥站收官 刘莎莎三连冠",
+      "body": "“皮尔力·来力杯”CBSA中国普尔9球巡回…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733698.shtml",
+      "publishedAt": "2026-11-17T12:21:00+00:00"
+    },
+    {
+      "id": "news-0105cbb2b78d83e1",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《多喜一家人》如何丈量中国式家庭的亲情深度",
+      "body": "2008年秋天，一笔拆迁款像一块滚烫的石头砸进了赛家小…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733685.shtml",
+      "publishedAt": "2026-11-17T12:04:54+00:00"
+    },
+    {
+      "id": "news-e5c709f023f9e5c1",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "蒙古族作家新作《雪山杜鹃》呈现各族同胞在长征中守望相助",
+      "body": "蒙古族作家鲍尔吉·原野的新作《雪山杜鹃》首…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733661.shtml",
+      "publishedAt": "2026-11-17T11:48:01+00:00"
+    },
+    {
+      "id": "news-1272c852acf3f1aa",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "纪录片揭秘重要农业文化遗产阳山水蜜桃栽培系统中的风味密码",
+      "body": "中国是桃的故乡，桃的栽培史可追溯至数千年…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733629.shtml",
+      "publishedAt": "2026-11-17T11:22:53+00:00"
+    },
+    {
+      "id": "news-862a93ac2c489e63",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
+      "body": "17日，2026—2027赛季全国花样滑冰少年锦标赛…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733616.shtml",
+      "publishedAt": "2026-11-17T11:05:28+00:00"
+    },
+    {
+      "id": "news-43cb71ae648fdfbc",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "卓越体育教师培养如何破局",
+      "body": "中国教育发展战略学会体育与健康专业委员会(简称“专委会”)成立仪式暨《体…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733612.shtml",
+      "publishedAt": "2026-11-17T11:02:36+00:00"
+    },
+    {
+      "id": "news-90c11f4539c77eff",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "宋陵“出圈”之后 河南巩义擘画文旅融合发展新蓝图",
+      "body": "前不久，流失海外30余年的2件北宋皇陵石像生头部…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733583.shtml",
+      "publishedAt": "2026-11-17T10:23:06+00:00"
+    },
+    {
+      "id": "news-7835d4dcb9a00144",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "世锦赛、亚运会冠军尚凯艳：希望更多青少年爱上射击",
+      "body": "从2026年爱知·名古屋亚运会摘金，到2026年…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733578.shtml",
+      "publishedAt": "2026-11-17T10:15:04+00:00"
+    },
+    {
+      "id": "news-7afb1c57035f3699",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《再走长征路》新书发布",
+      "body": "11月16日，《再走长征路》新书发布会在北京举行。系列丛书从中国经营报社重…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733543.shtml",
+      "publishedAt": "2026-11-17T09:02:56+00:00"
     },
     {
       "id": "news-ffd5c491ac688512",
@@ -75,19 +205,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-17/10733448.shtml",
       "publishedAt": "2026-11-17T07:19:10+00:00"
-    },
-    {
-      "id": "news-5d096124d1734317",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "西安闹市区现北宋神秘群墓",
-      "body": "车流不息、人声鼎沸的西安南稍门，背靠千年小雁塔，是西安主城区极具烟火气的…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733441.shtml",
-      "publishedAt": "2026-11-17T07:09:36+00:00"
     },
     {
       "id": "news-3ef2c23cf20a00b9",
@@ -114,32 +231,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733397.shtml",
       "publishedAt": "2026-11-17T06:35:32+00:00"
-    },
-    {
-      "id": "news-977e2cbbe1e32525",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "舞剧《五星出东方》欧洲首演 丝路文明“跨时空”共鸣",
-      "body": "舞剧《五星出东方》日前作为第四届中希国际戏剧节…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733384.shtml",
-      "publishedAt": "2026-11-17T06:17:51+00:00"
-    },
-    {
-      "id": "news-952017ec2dbac473",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "宁夏第八届大学生艺术展演启幕 美育筑梦向未来",
-      "body": "11月17日，宁夏第八届大学生艺术展演在银川市实验中…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733345.shtml",
-      "publishedAt": "2026-11-17T05:39:45+00:00"
     },
     {
       "id": "news-14ec8ca53f8edb46",
@@ -207,19 +298,6 @@
       "publishedAt": "2026-11-17T01:22:07+00:00"
     },
     {
-      "id": "news-ba5d9a247d8ebc3b",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "宋镇豪的冷门绝学",
-      "body": "中国新闻周刊记者：宋春丹",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733207.shtml",
-      "publishedAt": "2026-11-17T01:11:28+00:00"
-    },
-    {
       "id": "news-b1764e40b83881ac",
       "type": "news",
       "category": "新闻 · 生活",
@@ -244,19 +322,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-17/10733202.shtml",
       "publishedAt": "2026-11-17T01:03:00+00:00"
-    },
-    {
-      "id": "news-225e159102589cbd",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "（寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
-      "body": "题：白纸坊太狮：狮头七铃响 坊间京韵长",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
-      "publishedAt": "2026-11-17T00:53:09+00:00"
     },
     {
       "id": "news-478ada62c6df999d",
@@ -322,19 +387,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10733101.shtml",
       "publishedAt": "2026-11-16T13:49:00+00:00"
-    },
-    {
-      "id": "news-50a72e049662c4a3",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "第十届沈阳青年影像节学术论坛举办 聚焦“想象东北的方法”",
-      "body": "11月15日，第十届沈阳青年影像节核心活…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-16/10733090.shtml",
-      "publishedAt": "2026-11-16T13:29:15+00:00"
     },
     {
       "id": "news-00e371262a908194",
@@ -428,19 +480,6 @@
       "publishedAt": "2026-11-16T09:13:47+00:00"
     },
     {
-      "id": "news-12255e63cb74102d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "广东“百千万”篮球赛珠三角六队出线",
-      "body": "记者16日从广东省篮球协会获悉，2026年广东省“百县千镇万村…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10732814.shtml",
-      "publishedAt": "2026-11-16T08:16:30+00:00"
-    },
-    {
       "id": "news-b51ff5986e5afd54",
       "type": "news",
       "category": "新闻 · 生活",
@@ -452,45 +491,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-16/10732762.shtml",
       "publishedAt": "2026-11-16T06:37:13+00:00"
-    },
-    {
-      "id": "news-b7a37841b7d11a51",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "斯诺克冠中冠赛：凯伦·威尔逊夺冠",
-      "body": "当地时间11月15日，2026年斯诺克冠中冠邀请赛在英国莱斯特展…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10732750.shtml",
-      "publishedAt": "2026-11-16T06:35:41+00:00"
-    },
-    {
-      "id": "news-27444b9b5d2e2a2b",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "全国青少年匹克球选手广州同台“比武”",
-      "body": "2026“李宁杯”中国匹克球巡回赛青少年赛广东广州站(CPC…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10732735.shtml",
-      "publishedAt": "2026-11-16T06:31:11+00:00"
-    },
-    {
-      "id": "news-f73f3c1d532c8fa6",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年京澳高校足球邀请赛首次分设澳门、横琴两站",
-      "body": "2026年京澳高校足球邀请赛12日至15日举行…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10732747.shtml",
-      "publishedAt": "2026-11-16T06:24:38+00:00"
     },
     {
       "id": "news-cfcef10812751530",
