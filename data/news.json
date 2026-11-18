@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T20:57:26.692955+00:00",
+  "generatedAt": "2026-11-18T07:30:56.725972+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,188 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-2357d40f23cdb45e",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "古建“搭戏台” 北京西城“会馆有戏”延伸文化服务链条",
+      "body": "2026年北京西城“会馆有戏”活动日前收官。…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10734073.shtml",
+      "publishedAt": "2026-11-18T06:45:27+00:00"
+    },
+    {
+      "id": "news-59acc53c653d13da",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“汉语桥”连四海 隔万里尚为邻",
+      "body": "“我真切感受到，‘汉语桥’不只是一座连接彼此的‘桥’，更是帮我跨越…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-18/10734063.shtml",
+      "publishedAt": "2026-11-18T06:20:19+00:00"
+    },
+    {
+      "id": "news-aa88e0e7bdc4883f",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "湖北云梦出土珍贵秦简 实证中国大一统历史进程关键节点",
+      "body": "记者18日从湖北省文物考古研究院获悉，湖北云…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10734023.shtml",
+      "publishedAt": "2026-11-18T06:02:30+00:00"
+    },
+    {
+      "id": "news-576a634028c67b3d",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "青年师生演绎《傅山的山》致敬先贤",
+      "body": "2027年为傅山先生诞辰420周年。11月17日晚，由山西中医药…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10734014.shtml",
+      "publishedAt": "2026-11-18T06:02:16+00:00"
+    },
+    {
+      "id": "news-3b861c195c65e1ef",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "云南抚仙湖发现川蜷属三新种 近30年“失踪”瘤川蜷同步重现",
+      "body": "中国科学院昆明动物研究所18日消息，该…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10733926.shtml",
+      "publishedAt": "2026-11-18T03:44:13+00:00"
+    },
+    {
+      "id": "news-8a966a97879b0b1c",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "古都大同擘画“十五五”文物新图景：从守好家底到全民共享",
+      "body": "山西省大同市委宣传部、大同市人民政府新闻办…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10733923.shtml",
+      "publishedAt": "2026-11-18T03:43:01+00:00"
+    },
+    {
+      "id": "news-e6b7a09209253cad",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "从两宋瓷片到当代新作：云冈美术馆“造物·洞见”展开幕",
+      "body": "陶瓷、石雕、香——三种最古老的中国工艺，如今…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10733917.shtml",
+      "publishedAt": "2026-11-18T03:07:47+00:00"
+    },
+    {
+      "id": "news-10b76b2711ea62ee",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "干发帽包头超5分钟，掉发量增3倍？医生解读",
+      "body": "干发帽包头超5分钟，掉发量增3倍？",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733912.shtml",
+      "publishedAt": "2026-11-18T02:18:42+00:00"
+    },
+    {
+      "id": "news-042dbd73226ccdc7",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
+      "body": "本报拉萨11月15日讯(记者 旦增兰…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
+      "publishedAt": "2026-11-18T01:51:59+00:00"
+    },
+    {
+      "id": "news-d1b52d14f3892a69",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "500元以下的羽绒服不要买？专家：价格能决定的只是配置高低",
+      "body": "随着气温下降，羽绒服开始进入销售旺季。…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733882.shtml",
+      "publishedAt": "2026-11-18T01:35:46+00:00"
+    },
+    {
+      "id": "news-88561bd8f23b9481",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "毒性极强！只吃一口，呼吸困难送医急救……",
+      "body": "吃了一口",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733869.shtml",
+      "publishedAt": "2026-11-18T01:17:45+00:00"
+    },
+    {
+      "id": "news-15970b08c863e243",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "CFA中国之队·肇庆国际足球邀请赛：中国队1胜1平收官",
+      "body": "2026CFA中国之队·肇庆国际足球邀请赛…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10733830.shtml",
+      "publishedAt": "2026-11-18T00:22:14+00:00"
+    },
+    {
+      "id": "news-5c0c8a34026c3ddf",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国U19男足力克韩国队 时隔八年再夺熊猫杯冠军",
+      "body": "2026CFA中国之队·熊猫杯国际青年足球锦标赛…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10733829.shtml",
+      "publishedAt": "2026-11-18T00:20:36+00:00"
+    },
+    {
+      "id": "news-fa24eb8c0a593416",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国U19击败韩国U19 夺得熊猫杯冠军",
+      "body": "北京时间11月17日晚间，熊猫杯第3轮，中国U19男足2…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10733819.shtml",
+      "publishedAt": "2026-11-17T22:10:45+00:00"
+    },
     {
       "id": "news-0641f5811fc6b2c2",
       "type": "news",
@@ -64,19 +246,6 @@
       "publishedAt": "2026-11-17T13:02:19+00:00"
     },
     {
-      "id": "news-89c4ed005bba5ad7",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026世界剧院北京论坛暨台湖舞美国际论坛闭幕",
-      "body": "2026世界剧院北京论坛暨台湖舞美国际论坛日前在国…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733717.shtml",
-      "publishedAt": "2026-11-17T12:52:12+00:00"
-    },
-    {
       "id": "news-2091c8d8e7239a66",
       "type": "news",
       "category": "新闻 · 体育",
@@ -88,45 +257,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733698.shtml",
       "publishedAt": "2026-11-17T12:21:00+00:00"
-    },
-    {
-      "id": "news-0105cbb2b78d83e1",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《多喜一家人》如何丈量中国式家庭的亲情深度",
-      "body": "2008年秋天，一笔拆迁款像一块滚烫的石头砸进了赛家小…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733685.shtml",
-      "publishedAt": "2026-11-17T12:04:54+00:00"
-    },
-    {
-      "id": "news-e5c709f023f9e5c1",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "蒙古族作家新作《雪山杜鹃》呈现各族同胞在长征中守望相助",
-      "body": "蒙古族作家鲍尔吉·原野的新作《雪山杜鹃》首…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733661.shtml",
-      "publishedAt": "2026-11-17T11:48:01+00:00"
-    },
-    {
-      "id": "news-1272c852acf3f1aa",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "纪录片揭秘重要农业文化遗产阳山水蜜桃栽培系统中的风味密码",
-      "body": "中国是桃的故乡，桃的栽培史可追溯至数千年…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733629.shtml",
-      "publishedAt": "2026-11-17T11:22:53+00:00"
     },
     {
       "id": "news-862a93ac2c489e63",
@@ -155,19 +285,6 @@
       "publishedAt": "2026-11-17T11:02:36+00:00"
     },
     {
-      "id": "news-90c11f4539c77eff",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "宋陵“出圈”之后 河南巩义擘画文旅融合发展新蓝图",
-      "body": "前不久，流失海外30余年的2件北宋皇陵石像生头部…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733583.shtml",
-      "publishedAt": "2026-11-17T10:23:06+00:00"
-    },
-    {
       "id": "news-7835d4dcb9a00144",
       "type": "news",
       "category": "新闻 · 体育",
@@ -179,19 +296,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-17/10733578.shtml",
       "publishedAt": "2026-11-17T10:15:04+00:00"
-    },
-    {
-      "id": "news-7afb1c57035f3699",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《再走长征路》新书发布",
-      "body": "11月16日，《再走长征路》新书发布会在北京举行。系列丛书从中国经营报社重…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-17/10733543.shtml",
-      "publishedAt": "2026-11-17T09:02:56+00:00"
     },
     {
       "id": "news-ffd5c491ac688512",
@@ -337,32 +441,6 @@
       "publishedAt": "2026-11-16T23:22:28+00:00"
     },
     {
-      "id": "news-0e9e6c4e1fed0739",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "三枚金牌，刻进KPL十年的高光里程碑",
-      "body": "2026KPL年度总决赛14日在成都收官。北京WB战队以4:…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10733153.shtml",
-      "publishedAt": "2026-11-16T15:19:09+00:00"
-    },
-    {
-      "id": "news-59caba749eeff1c9",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "新兴水上项目持续“圈粉”",
-      "body": "2026MSGP动力冲浪板大奖赛暨全民健身动力冲浪板系列赛(横琴站)15…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10733116.shtml",
-      "publishedAt": "2026-11-16T14:09:51+00:00"
-    },
-    {
       "id": "news-a6e7c6ccd9b5dc71",
       "type": "news",
       "category": "新闻 · 教育",
@@ -389,19 +467,6 @@
       "publishedAt": "2026-11-16T13:49:00+00:00"
     },
     {
-      "id": "news-00e371262a908194",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2000余名跑友老挝万象开跑 见证中老友谊",
-      "body": "2026老中友谊(万象)国际半程马拉松15日在老挝首都…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10733066.shtml",
-      "publishedAt": "2026-11-16T13:09:16+00:00"
-    },
-    {
       "id": "news-99e6bc7c39acce09",
       "type": "news",
       "category": "新闻 · 教育",
@@ -413,19 +478,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10733045.shtml",
       "publishedAt": "2026-11-16T12:37:08+00:00"
-    },
-    {
-      "id": "news-6b442cf4a72aaa92",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026北京朝阳区新就业群体运动会开幕",
-      "body": "2026北京朝阳区新就业群体运动会16日开幕。活动以“奔忙…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-16/10733013.shtml",
-      "publishedAt": "2026-11-16T12:29:56+00:00"
     },
     {
       "id": "news-aa40e6f1fc92a5cf",
@@ -467,19 +519,6 @@
       "publishedAt": "2026-11-16T10:55:23+00:00"
     },
     {
-      "id": "news-bac247e2fffa143a",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "全国中小学舞蹈教师培优计划湖南站开班",
-      "body": "全国中小学舞蹈教师培优计划2026年度湖南站培训16日在长沙…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10732888.shtml",
-      "publishedAt": "2026-11-16T09:13:47+00:00"
-    },
-    {
       "id": "news-b51ff5986e5afd54",
       "type": "news",
       "category": "新闻 · 生活",
@@ -504,45 +543,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml",
       "publishedAt": "2026-11-16T01:35:45+00:00"
-    },
-    {
-      "id": "news-caf203f9573d8463",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "为什么有人每天睡得少却很精神？科学家发现“短睡基因”",
-      "body": "大多数人都清楚充足睡眠是至关重要的，经典观点…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-15/10732227.shtml",
-      "publishedAt": "2026-11-15T00:47:27+00:00"
-    },
-    {
-      "id": "news-f679bb3367ef4cf5",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "小学生凌晨梦游从7楼坠落，专家解读儿童梦游真相，这件事千万别做",
-      "body": "前段时间，一则男孩梦游坠楼的新闻，…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-15/10732218.shtml",
-      "publishedAt": "2026-11-15T00:21:42+00:00"
-    },
-    {
-      "id": "news-044df00231685e70",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "冬季进补误区：不是所有人都适合“大补” 一个办法简单自测",
-      "body": "进入冬季，很多人会选择进补调养身体，不过…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-15/10732217.shtml",
-      "publishedAt": "2026-11-15T00:19:22+00:00"
     }
   ]
 }
