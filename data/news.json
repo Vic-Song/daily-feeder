@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T07:28:51.364987+00:00",
+  "generatedAt": "2026-11-19T20:40:11.460793+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,240 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-7d1b006c6d4ef223",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "跟着戏曲去出海 《戏宇宙（海外季）》开播仪式举办",
+      "body": "山东卫视《戏宇宙(海外季)》开播仪式日前在北京湖…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734965.shtml",
+      "publishedAt": "2026-11-19T14:39:39+00:00"
+    },
+    {
+      "id": "news-7c62f0e093a1627f",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "国家大剧院与法国波尔多国家歌剧院联合制作歌剧《魔笛》将在京登台",
+      "body": "2026年恰逢莫扎特诞辰270周年…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734958.shtml",
+      "publishedAt": "2026-11-19T14:26:41+00:00"
+    },
+    {
+      "id": "news-29a00e279659340d",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "WTT冠军赛将首次登陆上海",
+      "body": "据上海市体育局19日消息，世界乒乓球职业大联盟(WTT)当日宣布，20…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734955.shtml",
+      "publishedAt": "2026-11-19T14:22:28+00:00"
+    },
+    {
+      "id": "news-76d7a52412082b73",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "国家广播电视总局举办电视剧《伟大的长征》创作座谈会",
+      "body": "由国家广播电视总局主办的电视剧《伟大的长征》创…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734944.shtml",
+      "publishedAt": "2026-11-19T13:55:31+00:00"
+    },
+    {
+      "id": "news-c71341f45a5534d6",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第七届全国乒乓球“业余球王”总决赛开赛 657名选手角逐“球王”荣誉",
+      "body": "19日，第七届“李宁·红双喜…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734834.shtml",
+      "publishedAt": "2026-11-19T13:29:43+00:00"
+    },
+    {
+      "id": "news-1ddba6ddeeb6a778",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“冰超”·2026-2027赛季全国冰壶联赛（伊春站）启幕",
+      "body": "19日，“冰超”·2026-2027赛…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734925.shtml",
+      "publishedAt": "2026-11-19T13:18:53+00:00"
+    },
+    {
+      "id": "news-343c2310f8d55a0e",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "《新历史知识理论》中文版首发",
+      "body": "“德国史学思想的当代意义与价值——约恩·吕森《新历史知识理论》中译本…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734906.shtml",
+      "publishedAt": "2026-11-19T13:03:58+00:00"
+    },
+    {
+      "id": "news-fde823d61b0bfa22",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
+      "body": "记者19日从中国教育部获悉，2027届…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
+      "publishedAt": "2026-11-19T12:54:31+00:00"
+    },
+    {
+      "id": "news-f56a94863698969f",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“未名·AI Park”在北京揭牌 共建人工智能创新转化高地",
+      "body": "“未名·AI Park”18日在北京…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-19/10734878.shtml",
+      "publishedAt": "2026-11-19T12:38:15+00:00"
+    },
+    {
+      "id": "news-db3cbccb4fde6a34",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "纪录片《百年巨匠-秦含章》杀青 为民族工业巨匠立传",
+      "body": "人物传记纪录片《百年巨匠-秦含章》杀青仪式18…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734883.shtml",
+      "publishedAt": "2026-11-19T12:37:03+00:00"
+    },
+    {
+      "id": "news-293aed3d829495fc",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "陕西省第八届大学生艺术展演活动现场展演启幕",
+      "body": "陕西省第八届大学生艺术展演活动现场展演动员部署会18日…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734835.shtml",
+      "publishedAt": "2026-11-19T12:06:55+00:00"
+    },
+    {
+      "id": "news-9e34b43b4843b505",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中国自研合成生物领域首个酶设计大模型发布",
+      "body": "中国自主研发的酶设计大模型“天华开物”19日在天津大学发…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-19/10734841.shtml",
+      "publishedAt": "2026-11-19T11:47:34+00:00"
+    },
+    {
+      "id": "news-470ddb17579382e7",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "中法机构签署合作文件 构建“大晋祠文化景观”",
+      "body": "“中法文化景观保护与管理实践对话会：遗产、环境与地方…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734793.shtml",
+      "publishedAt": "2026-11-19T10:19:59+00:00"
+    },
+    {
+      "id": "news-288aba32cc4a2dc9",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "打城戏迎来“新话事人” “Z世代”接续守护稀有剧种",
+      "body": "题：打城戏迎来“新话事人” “Z世代”接续守护…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734756.shtml",
+      "publishedAt": "2026-11-19T09:32:15+00:00"
+    },
+    {
+      "id": "news-b70db9ef7e830e9a",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2027届全国普通高校毕业生规模预计1299万人",
+      "body": "据教育部网站消息，11月19日，中央教育工作领导…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-19/10734743.shtml",
+      "publishedAt": "2026-11-19T09:08:47+00:00"
+    },
+    {
+      "id": "news-efd4f042bd3282bc",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "首次突破5亿元 音集协卡拉OK版权收费创历史新高",
+      "body": "记者从中国音像著作权集体管理协会(以下简称“音集…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734728.shtml",
+      "publishedAt": "2026-11-19T09:01:05+00:00"
+    },
+    {
+      "id": "news-83bf507cffed5343",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
+      "body": "第七届长三角国际文化产业博览会19日在国家会展中心(上…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
+      "publishedAt": "2026-11-19T08:05:08+00:00"
+    },
+    {
+      "id": "news-5ba236e8e5e508ea",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "大风、寒潮！局地降温12℃以上（附保暖防寒攻略）",
+      "body": "受冷空气影响",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-19/10734672.shtml",
+      "publishedAt": "2026-11-19T07:48:25+00:00"
+    },
     {
       "id": "news-d4132ae968b07b2a",
       "type": "news",
@@ -23,19 +257,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734622.shtml",
       "publishedAt": "2026-11-19T06:50:36+00:00"
-    },
-    {
-      "id": "news-2490b5b7118c0ff0",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "孟京辉：在浪漫与科技间试探戏剧边界",
-      "body": "“现在戏剧和以前不一样了。”11月18日至26日，2026第十…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734596.shtml",
-      "publishedAt": "2026-11-19T06:08:44+00:00"
     },
     {
       "id": "news-57a97459db04f041",
@@ -51,32 +272,6 @@
       "publishedAt": "2026-11-19T06:01:21+00:00"
     },
     {
-      "id": "news-cb7c83ef53669d73",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“歌手厉娜卷入借贷纠纷”引热议，律师解读",
-      "body": "近日，歌手厉娜因卷入一起民间借贷纠纷，引发舆论关注。",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734584.shtml",
-      "publishedAt": "2026-11-19T06:01:11+00:00"
-    },
-    {
-      "id": "news-94dbb297ab74b528",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "俄罗斯宫廷珍宝亮相上海世博会博物馆",
-      "body": "“克里姆林宫瑰宝——从彼得一世到叶卡捷琳娜二世”展19日起在上…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734606.shtml",
-      "publishedAt": "2026-11-19T06:01:03+00:00"
-    },
-    {
       "id": "news-c2c2d2937d0b65cf",
       "type": "news",
       "category": "新闻 · 体育",
@@ -90,32 +285,6 @@
       "publishedAt": "2026-11-19T05:06:52+00:00"
     },
     {
-      "id": "news-029c9d99ea0225c0",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“AI变现”图书热销 这类书籍如何挑选？",
-      "body": "当前，使用AI提高效率、开辟副业的朋友越来越多，各类“A…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734567.shtml",
-      "publishedAt": "2026-11-19T04:18:58+00:00"
-    },
-    {
-      "id": "news-b0b7b0fda2bffe34",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国广西新发现直立人化石 将助力破解古人类演化关键谜题",
-      "body": "直立人是生存年代最长的古人类物种之一，已知…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734528.shtml",
-      "publishedAt": "2026-11-19T02:53:21+00:00"
-    },
-    {
       "id": "news-642fdbadfcfaa438",
       "type": "news",
       "category": "新闻 · 教育",
@@ -127,32 +296,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-19/10734530.shtml",
       "publishedAt": "2026-11-19T02:50:29+00:00"
-    },
-    {
-      "id": "news-50e95f2f9fdd67f7",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "提升版粤剧《一把存忠剑》上演 武戏场面更加恢宏",
-      "body": "作为广州粤剧院“粤剧戏宝计划”首部提升剧目，提升版…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734505.shtml",
-      "publishedAt": "2026-11-19T01:59:26+00:00"
-    },
-    {
-      "id": "news-155e0325e48c756e",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026年度“十大”科普热词发布：勾勒人类生活新未来",
-      "body": "人工智能等新技术加速链接千行百业——",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734498.shtml",
-      "publishedAt": "2026-11-19T01:39:37+00:00"
     },
     {
       "id": "news-348cf6080e48da07",
@@ -192,45 +335,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-19/10734464.shtml",
       "publishedAt": "2026-11-19T00:30:29+00:00"
-    },
-    {
-      "id": "news-be0a157688b5e891",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“考古中国”成果上新 揭开哪些历史谜题？",
-      "body": "国家文物局昨天(18日)发布了长江文明溯源最新考古成果，…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734460.shtml",
-      "publishedAt": "2026-11-19T00:19:59+00:00"
-    },
-    {
-      "id": "news-f7acfa9956f5bfb2",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "从网络社区到街头巷尾 城市藏着哪些“长红”密码",
-      "body": "跳出打卡景点，一座城市还有哪些动人之处？烟火日常，…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-19/10734447.shtml",
-      "publishedAt": "2026-11-18T23:34:10+00:00"
-    },
-    {
-      "id": "news-7b7b33cf314fba64",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "宋庆龄和平天使艺术团京昆表演团2026年戏曲晚会在北京上演",
-      "body": "以“时代少年传国粹”为主题的宋庆龄和平…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-18/10734417.shtml",
-      "publishedAt": "2026-11-18T14:32:00+00:00"
     },
     {
       "id": "news-41ed52fc6d80c475",
@@ -285,19 +389,6 @@
       "publishedAt": "2026-11-18T09:00:10+00:00"
     },
     {
-      "id": "news-1a0f864abb0ba7aa",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "斯诺克德国大师赛资格赛：中国军团获7胜 傅家俊首战过关",
-      "body": "当地时间11月17日，在英国维冈举行的20…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10734133.shtml",
-      "publishedAt": "2026-11-18T08:56:04+00:00"
-    },
-    {
       "id": "news-59acc53c653d13da",
       "type": "news",
       "category": "新闻 · 教育",
@@ -324,19 +415,6 @@
       "publishedAt": "2026-11-18T02:18:42+00:00"
     },
     {
-      "id": "news-042dbd73226ccdc7",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
-      "body": "本报拉萨11月15日讯(记者 旦增兰…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
-      "publishedAt": "2026-11-18T01:51:59+00:00"
-    },
-    {
       "id": "news-d1b52d14f3892a69",
       "type": "news",
       "category": "新闻 · 生活",
@@ -361,19 +439,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733869.shtml",
       "publishedAt": "2026-11-18T01:17:45+00:00"
-    },
-    {
-      "id": "news-15970b08c863e243",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "CFA中国之队·肇庆国际足球邀请赛：中国队1胜1平收官",
-      "body": "2026CFA中国之队·肇庆国际足球邀请赛…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-18/10733830.shtml",
-      "publishedAt": "2026-11-18T00:22:14+00:00"
     },
     {
       "id": "news-ffd5c491ac688512",
@@ -467,19 +532,6 @@
       "publishedAt": "2026-11-17T01:04:48+00:00"
     },
     {
-      "id": "news-6182bc31da34c454",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "这些不起眼的习惯正在悄悄助长“超级细菌”",
-      "body": "这些不起眼的习惯，可能正助长全球性健康威胁！",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-17/10733202.shtml",
-      "publishedAt": "2026-11-17T01:03:00+00:00"
-    },
-    {
       "id": "news-478ada62c6df999d",
       "type": "news",
       "category": "新闻 · 教育",
@@ -491,58 +543,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-17/10733168.shtml",
       "publishedAt": "2026-11-16T23:22:28+00:00"
-    },
-    {
-      "id": "news-a6e7c6ccd9b5dc71",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海”",
-      "body": "中国华侨最高学府暨南大学16日迎来建校12…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10733108.shtml",
-      "publishedAt": "2026-11-16T13:58:55+00:00"
-    },
-    {
-      "id": "news-1bc55af9d92d122f",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "10国学员齐聚重庆 研修西部陆海新通道跨境贸易与产业合作",
-      "body": "16日，重庆市人民政府外国留学生市长奖学…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10733101.shtml",
-      "publishedAt": "2026-11-16T13:49:00+00:00"
-    },
-    {
-      "id": "news-99e6bc7c39acce09",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "宁夏打造大学生参保“高效一件事”新模式",
-      "body": "11月16日，记者从宁夏回族自治区医保局获悉，宁夏创新推出…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10733045.shtml",
-      "publishedAt": "2026-11-16T12:37:08+00:00"
-    },
-    {
-      "id": "news-aa40e6f1fc92a5cf",
-      "type": "news",
-      "category": "新闻 · 教育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "赓续药学薪火奔赴百年之约 中国药科大学迎来建校九十周年",
-      "body": "16日，庆祝中国药科大学建校90周年大会在…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-16/10732994.shtml",
-      "publishedAt": "2026-11-16T12:00:54+00:00"
     }
   ]
 }
