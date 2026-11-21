@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T20:24:12.820792+00:00",
+  "generatedAt": "2026-11-21T07:12:04.229456+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,110 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-3be212614faa481e",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "冬奥场馆开启新赛季 四项国际雪联顶级赛事落地云顶滑雪公园",
+      "body": "河北省张家口市云顶滑雪公园日前发布202…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-21/10735707.shtml",
+      "publishedAt": "2026-11-21T05:47:33+00:00"
+    },
+    {
+      "id": "news-7a17cd3427a4062b",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "西夏文献流散百年 中外学者共寻“解读”之道",
+      "body": "题：西夏文献流散百年 中外学者共寻“解读”之道",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-21/10735697.shtml",
+      "publishedAt": "2026-11-21T05:36:07+00:00"
+    },
+    {
+      "id": "news-7c827443190e6ead",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第20届曼谷中国电影节开幕 多部优秀中国影片亮相泰国",
+      "body": "由中国驻泰国大使馆、中国国家电影局、泰国文化…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-21/10735691.shtml",
+      "publishedAt": "2026-11-21T05:31:41+00:00"
+    },
+    {
+      "id": "news-7545f58d98fdee93",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "2026中国电影节在菲律宾马尼拉开幕",
+      "body": "2026中国电影节20日在菲律宾首都马尼拉开幕。中国驻菲律宾…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-21/10735687.shtml",
+      "publishedAt": "2026-11-21T04:13:18+00:00"
+    },
+    {
+      "id": "news-2e7aad5586719040",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "U17世界杯：中国队首战0:5不敌西班牙队",
+      "body": "当地时间11月20日，在卡塔尔多哈举行的2026年U1…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-21/10735654.shtml",
+      "publishedAt": "2026-11-21T02:15:08+00:00"
+    },
+    {
+      "id": "news-70af22c69892e413",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "第五届霞浦海洋诗会启幕：诗城共生、以文兴城",
+      "body": "20日晚，以“诗乡霞浦 光耀山海”为主题的第五届霞浦海…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-21/10735628.shtml",
+      "publishedAt": "2026-11-21T01:31:48+00:00"
+    },
+    {
+      "id": "news-6bdaad0c98a601a4",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“网络文明大讲堂·数字里的文化遗产” 专场活动在河南郑州举办",
+      "body": "由中央精神文明建设办公室、中央网信办…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-21/10735637.shtml",
+      "publishedAt": "2026-11-21T01:30:25+00:00"
+    },
+    {
+      "id": "news-750dbecbda9f426e",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "U17世界杯 中国队首战不敌西班牙队",
+      "body": "北京时间11月20日，2026U17世界杯H组首轮，中国U1…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
+      "publishedAt": "2026-11-20T22:17:47+00:00"
+    },
     {
       "id": "news-c8957dd4f97c965f",
       "type": "news",
@@ -168,19 +272,6 @@
       "publishedAt": "2026-11-20T10:57:24+00:00"
     },
     {
-      "id": "news-315377b171a2b9a8",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "山西朔州“十五五”布局文旅融合 让千年应县木塔“活起来”",
-      "body": "记者20日从山西省委宣传部、省政府新闻办…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-20/10735406.shtml",
-      "publishedAt": "2026-11-20T10:40:49+00:00"
-    },
-    {
       "id": "news-892b64103c1405e7",
       "type": "news",
       "category": "新闻 · 教育",
@@ -192,19 +283,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-20/10735384.shtml",
       "publishedAt": "2026-11-20T10:03:51+00:00"
-    },
-    {
-      "id": "news-4634997b02ea767b",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中俄文化交流嘉年华启动 三晋文化邂逅伏尔加河畔风情",
-      "body": "11月20日，“晋韵俄风共绘华章”2026中俄…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-20/10735371.shtml",
-      "publishedAt": "2026-11-20T09:59:33+00:00"
     },
     {
       "id": "news-457ec30eab21a53e",
@@ -233,19 +311,6 @@
       "publishedAt": "2026-11-20T09:51:32+00:00"
     },
     {
-      "id": "news-f69e224c7c0a92a9",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "2026集美·阿尔勒影像艺术季在厦门开幕",
-      "body": "2026集美·阿尔勒影像艺术季20日在厦门开幕。",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-20/10735338.shtml",
-      "publishedAt": "2026-11-20T09:43:18+00:00"
-    },
-    {
       "id": "news-2410d617e9c8b517",
       "type": "news",
       "category": "新闻 · 体育",
@@ -259,19 +324,6 @@
       "publishedAt": "2026-11-20T08:58:03+00:00"
     },
     {
-      "id": "news-b94f7071c9aef3ea",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "西安面塑手艺人的指尖创作：将生活“揉进”面团 捏出世间百态",
-      "body": "面塑古称“捏面人”，是发源于市井烟火、…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-20/10735280.shtml",
-      "publishedAt": "2026-11-20T08:56:41+00:00"
-    },
-    {
       "id": "news-f72565178825dfa2",
       "type": "news",
       "category": "新闻 · 教育",
@@ -283,19 +335,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-20/10735288.shtml",
       "publishedAt": "2026-11-20T08:11:25+00:00"
-    },
-    {
-      "id": "news-193e68d202f4cf8d",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "湖南展出95件优秀美术作品 尽显“丹青湖湘”之美",
-      "body": "11月20日，第六届“丹青湖湘”——湖南省优秀美…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-20/10735276.shtml",
-      "publishedAt": "2026-11-20T08:06:31+00:00"
     },
     {
       "id": "news-427a292f221fa750",
@@ -348,45 +387,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-20/10735096.shtml",
       "publishedAt": "2026-11-20T02:38:17+00:00"
-    },
-    {
-      "id": "news-29a00e279659340d",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "WTT冠军赛将首次登陆上海",
-      "body": "据上海市体育局19日消息，世界乒乓球职业大联盟(WTT)当日宣布，20…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734955.shtml",
-      "publishedAt": "2026-11-19T14:22:28+00:00"
-    },
-    {
-      "id": "news-c71341f45a5534d6",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "第七届全国乒乓球“业余球王”总决赛开赛 657名选手角逐“球王”荣誉",
-      "body": "19日，第七届“李宁·红双喜…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734834.shtml",
-      "publishedAt": "2026-11-19T13:29:43+00:00"
-    },
-    {
-      "id": "news-1ddba6ddeeb6a778",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“冰超”·2026-2027赛季全国冰壶联赛（伊春站）启幕",
-      "body": "19日，“冰超”·2026-2027赛…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-19/10734925.shtml",
-      "publishedAt": "2026-11-19T13:18:53+00:00"
     },
     {
       "id": "news-fde823d61b0bfa22",
@@ -452,45 +452,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-19/10734493.shtml",
       "publishedAt": "2026-11-19T01:25:02+00:00"
-    },
-    {
-      "id": "news-10b76b2711ea62ee",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "干发帽包头超5分钟，掉发量增3倍？医生解读",
-      "body": "干发帽包头超5分钟，掉发量增3倍？",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733912.shtml",
-      "publishedAt": "2026-11-18T02:18:42+00:00"
-    },
-    {
-      "id": "news-d1b52d14f3892a69",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "500元以下的羽绒服不要买？专家：价格能决定的只是配置高低",
-      "body": "随着气温下降，羽绒服开始进入销售旺季。…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733882.shtml",
-      "publishedAt": "2026-11-18T01:35:46+00:00"
-    },
-    {
-      "id": "news-88561bd8f23b9481",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "毒性极强！只吃一口，呼吸困难送医急救……",
-      "body": "吃了一口",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-18/10733869.shtml",
-      "publishedAt": "2026-11-18T01:17:45+00:00"
     }
   ]
 }
