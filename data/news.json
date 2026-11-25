@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T22:28:45.369521+00:00",
+  "generatedAt": "2026-11-25T08:38:50.772702+00:00",
   "source": "中国新闻网官方 RSS",
   "topics": [
     "文化",
@@ -11,6 +11,136 @@
   ],
   "failedTopics": [],
   "items": [
+    {
+      "id": "news-f9efba2d8e2b47cb",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "当说唱遇上国风：本土腔调为潮流音乐寻文化根脉",
+      "body": "当舶来的说唱节奏遇上中国的山水人文，国风说唱正在青年…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-25/10737576.shtml",
+      "publishedAt": "2026-11-25T08:12:33+00:00"
+    },
+    {
+      "id": "news-41188796873ac113",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "斯诺克英锦赛资格赛：丁俊晖赢下“德比战”晋级“审判轮”",
+      "body": "2026斯诺克英锦赛资格赛当地时间24日继…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-25/10737510.shtml",
+      "publishedAt": "2026-11-25T06:27:48+00:00"
+    },
+    {
+      "id": "news-1e8b88fae7e41306",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "高校餐饮人才双选会扬州开锣 近80家单位进校对接毕业生",
+      "body": "11月25日，第二届高等学校餐饮人才双选会…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-25/10737483.shtml",
+      "publishedAt": "2026-11-25T05:33:33+00:00"
+    },
+    {
+      "id": "news-6b33ed2bb724dd29",
+      "type": "news",
+      "category": "新闻 · 生活",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "开窗通风仍中毒，两人深夜送医！近期千万警惕",
+      "body": "随着气温下降",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
+      "publishedAt": "2026-11-25T05:00:01+00:00"
+    },
+    {
+      "id": "news-5a67f6e85fec62d7",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "福建第十二届老健会三明开幕 银发体育盛会创历届之最",
+      "body": "福建省第十二届老年人体育健身大会24日在三明市…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-25/10737428.shtml",
+      "publishedAt": "2026-11-25T03:34:06+00:00"
+    },
+    {
+      "id": "news-59f30fc264fd6c73",
+      "type": "news",
+      "category": "新闻 · 体育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "“为奥运喝彩”走进什刹海体校 共话体育文化传承",
+      "body": "11月24日，“为奥运喝彩”项目组一行走进北京市什…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-25/10737395.shtml",
+      "publishedAt": "2026-11-25T03:30:56+00:00"
+    },
+    {
+      "id": "news-71c650432c5d4d1e",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "作家邓一光推出八十万字长篇小说《闭上眼睛》",
+      "body": "以一条真实的航线为骨架，在丰沛的历史细节之中，写出一部…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-25/10737429.shtml",
+      "publishedAt": "2026-11-25T03:29:12+00:00"
+    },
+    {
+      "id": "news-c2a210753da08f91",
+      "type": "news",
+      "category": "新闻 · 教育",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "湖南农业大学成立中药资源学院 拓展园艺学科发展新赛道",
+      "body": "24日，湖南农业大学中药资源学院揭牌成立。这…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-25/10737375.shtml",
+      "publishedAt": "2026-11-25T03:17:09+00:00"
+    },
+    {
+      "id": "news-6ef11ffd3c8d1e67",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "他们为北京城立一部流动的物候志",
+      "body": "“京华物候 二十四节气的北京叙事”展示开幕 中国画配AR与短视频让…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-25/10737369.shtml",
+      "publishedAt": "2026-11-25T02:39:53+00:00"
+    },
+    {
+      "id": "news-a01db7d09cbba530",
+      "type": "news",
+      "category": "新闻 · 文化",
+      "icon": "▤",
+      "kicker": "A HEADLINE TO EXPLORE",
+      "title": "在地扎根，短剧出海掀起全球热度",
+      "body": "近日，在马德里的公交车上、莫斯科的地铁里、米兰的车站中，不少海外乘…",
+      "note": "新闻标题与导语节选 · 完整语境请见原文。",
+      "sourceName": "中国新闻网",
+      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-25/10737324.shtml",
+      "publishedAt": "2026-11-25T01:20:33+00:00"
+    },
     {
       "id": "news-d5ebafaa9ae498b2",
       "type": "news",
@@ -168,45 +298,6 @@
       "publishedAt": "2026-11-24T11:43:00+00:00"
     },
     {
-      "id": "news-14225e529dfb07b4",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "《圣陶日记1910—1916（原本）》在京首发",
-      "body": "《圣陶日记1910—1916(原本)》发布会23日…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-24/10737157.shtml",
-      "publishedAt": "2026-11-24T11:41:48+00:00"
-    },
-    {
-      "id": "news-1152aa82c1a0a912",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "金鸡奖最佳儿童片《马兰花开的声音》首映礼举办",
-      "body": "第39届中国电影金鸡奖最佳儿童片《马兰花开的声音》日…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-24/10737122.shtml",
-      "publishedAt": "2026-11-24T11:26:59+00:00"
-    },
-    {
-      "id": "news-7cb7a8d2378c13fe",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "约八成展品首亮相 吉林省博物院展出古代兵器珍藏",
-      "body": "一件刻有细密铭文的战国青铜戈，为何出现在吉林长白山…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-24/10737102.shtml",
-      "publishedAt": "2026-11-24T10:14:11+00:00"
-    },
-    {
       "id": "news-34145b70334f2c5e",
       "type": "news",
       "category": "新闻 · 体育",
@@ -218,19 +309,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-24/10737093.shtml",
       "publishedAt": "2026-11-24T10:02:15+00:00"
-    },
-    {
-      "id": "news-ae3f244c6c5f9fbd",
-      "type": "news",
-      "category": "新闻 · 文化",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "“阅读山海”海边读书会举行",
-      "body": "以“阅读山海”为主题，将文学分享、扬琴演奏与公众共读置于山海之间——由…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-24/10737092.shtml",
-      "publishedAt": "2026-11-24T09:58:48+00:00"
     },
     {
       "id": "news-ef16690ce27d0a9d",
@@ -246,19 +324,6 @@
       "publishedAt": "2026-11-24T09:39:43+00:00"
     },
     {
-      "id": "news-f8ccad0b1b4e2980",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "中国篮协职业联赛升降级办法迎重要进展",
-      "body": "记者从23日在京举行的2026-2027赛季全国男子篮球联赛…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-24/10737073.shtml",
-      "publishedAt": "2026-11-24T09:29:53+00:00"
-    },
-    {
       "id": "news-47ab8ac54422da53",
       "type": "news",
       "category": "新闻 · 教育",
@@ -270,32 +335,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-24/10737044.shtml",
       "publishedAt": "2026-11-24T08:44:02+00:00"
-    },
-    {
-      "id": "news-5ed808fee9392f87",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "斯诺克英锦赛资格赛：中国军团斯佳辉、龙泽煌率先闯入48强",
-      "body": "2026斯诺克英锦赛资格赛当地时间23日…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-24/10736945.shtml",
-      "publishedAt": "2026-11-24T07:15:28+00:00"
-    },
-    {
-      "id": "news-f5a4667956a7d7d5",
-      "type": "news",
-      "category": "新闻 · 体育",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "补时被绝平，U17男足世界杯中国队2比2摩洛哥队",
-      "body": "当地时间23日，在2026年卡塔尔U17男足世界…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/ty/2026/11-24/10736889.shtml",
-      "publishedAt": "2026-11-24T05:29:36+00:00"
     },
     {
       "id": "news-f72bea56358226db",
@@ -452,32 +491,6 @@
       "sourceName": "中国新闻网",
       "sourceUrl": "https://www.chinanews.com.cn/edu/2026/11-23/10736240.shtml",
       "publishedAt": "2026-11-23T00:14:52+00:00"
-    },
-    {
-      "id": "news-23844262efbedc6a",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "舌尖上的小雪！冬藏美食地图带你寻找儿时家乡味",
-      "body": "中国天气网讯 时序流转，小雪节气如约而至。小雪，是冬…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-22/10736065.shtml",
-      "publishedAt": "2026-11-22T07:29:07+00:00"
-    },
-    {
-      "id": "news-019311a1dd00da34",
-      "type": "news",
-      "category": "新闻 · 生活",
-      "icon": "▤",
-      "kicker": "A HEADLINE TO EXPLORE",
-      "title": "冬季如何正确养生？一起听听老话怎么说",
-      "body": "今天(22日)15时23分，我们将迎来小雪节气。北方有句老话…",
-      "note": "新闻标题与导语节选 · 完整语境请见原文。",
-      "sourceName": "中国新闻网",
-      "sourceUrl": "https://www.chinanews.com.cn/life/2026/11-22/10736042.shtml",
-      "publishedAt": "2026-11-22T05:53:18+00:00"
     }
   ]
 }
